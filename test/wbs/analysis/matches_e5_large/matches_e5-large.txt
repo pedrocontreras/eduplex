@@ -1,0 +1,1656 @@
+intfloat/multilingual-e5-large
+---------------Matching Semantic Descriptions------------------------
+1
+       0        0.8788         10731      Kostenrechnungstätigkeiten durchführen
+       1        0.8702          6394      Haushaltsgrundsätze
+       2        0.8658          4047      internationale Rechnungslegungsstandards
+       3        0.8649          7497      Betriebswirtschaft
+       4        0.8620           411      Abläufe in der Buchhaltungsabteilung
+       5        0.8619          7082      Finanzkompetenz
+       6        0.8612         11485      Herstellungsprozess im Weingut
+       7        0.8611          7460      Rechnungslegungstechniken
+       8        0.8607          9053      Finanzübersichten des Ladengeschäfts bearbeiten
+       9        0.8605         12019      Finanztransaktionen von Tankstellen regeln
+2
+       0        0.8625         10731      Kostenrechnungstätigkeiten durchführen
+       1        0.8492          7460      Rechnungslegungstechniken
+       2        0.8448          7082      Finanzkompetenz
+       3        0.8433         12321      Verkaufsrechnungen ausstellen
+       4        0.8423         11264      Betriebskosten beurteilen
+       5        0.8413         11656      Konformität mit Rechnungslegungsrichtlinien sicherstellen
+       6        0.8401          4561      Arbeitsprogramm in Abhängigkeit von den eingehenden Aufträgen gestalten
+       7        0.8393          2219      Systeme zur Überwachung von Lebensmittelabfällen
+       8        0.8383           390      Kosten von Instandsetzungsvorhaben berechnen
+       9        0.8381          4820      Unterlagen im Zusammenhang mit Lagerbeständen bearbeiten
+3
+       0        0.8486          6502      Vorschriften zur elektrischen Sicherheit
+       1        0.8403         10888      Elektrizität
+       2        0.8371          8284      Vorschriften zur elektrischen Sicherheit befolgen
+       3        0.8348          2216      elektrische Maschinen warten
+       4        0.8342          2372      Bestimmungen zu elektrischen Geräten
+       5        0.8327          3102      elektrische Ausrüstung instand halten
+       6        0.8323         12778      elektrische Ausstattung von Fahrzeugen warten
+       7        0.8301           946      über technische Vorgänge an Land unterrichten
+       8        0.8285          5344      Brandschutzvorschriften
+       9        0.8275         13487      Verpackungsverarbeitungsgeräte bedienen
+4
+       0        0.8598          9518      Messinstrumente testen
+       1        0.8477          6546      Optoelektronik testen
+       2        0.8449          3631      Diagnostikinstrumente für Reparaturen an elektronischen Anlagen nutzen
+       3        0.8417          6354      Qualität von Lederwaren
+       4        0.8404          3639      Präzisionsmessgeräte bedienen
+       5        0.8398           716      Halbleiterbestandteile überprüfen
+       6        0.8382          6441      Fahrerlaubnisprüfung
+       7        0.8372          4680      Werkzeuge zur Reparatur von Gusserzeugnissen verwenden
+       8        0.8369          9423      Genauigkeit von chirurgischen Instrumenten testen
+       9        0.8363          8631      Entwürfe auf Gravuren übertragen
+5
+       0        0.8427          2862      berufsspezifischer Verhaltenskodex für Angestellte im Gesundheitswesen
+       1        0.8419          4492      Daten von Nutzern/Nutzerinnen des Gesundheitssystems vertraulich behandeln
+       2        0.8414         11141      Nutzer/innen des Gesundheitssystems über Gesundheit am Arbeitsplatz anweisen
+       3        0.8411         12471      Prinzipien der Nachhaltigkeit im Gesundheitswesen anwenden
+       4        0.8404          8435      Gesundheitserziehung
+       5        0.8399         11590      Personen in der Fachkrankenpflege ausbilden
+       6        0.8377          3644      aufkommende Technologien
+       7        0.8377          8417      Gesundheitsdatensysteme
+       8        0.8375          5518      Werbung für die Menschenrechte machen
+       9        0.8369            81      biomedizinische und medizinische Wissenschaften im Zusammenhang mit der Zahnmedizin
+6
+       0        0.8846          8126      Gewebe gestalten
+       1        0.8809         10671      Frontend-Webdesign erstellen
+       2        0.8692          5909      Bühnenausstattung digital zeichnen
+       3        0.8681          7947      Federzeichnungen anfertigen
+       4        0.8673         12078      Fotos bearbeiten
+       5        0.8639          4076      Techniken des Desktop-Publishings anwenden
+       6        0.8629         12586      bewegte Bilder schaffen
+       7        0.8618          8502      digitale Inhalte formatieren
+       8        0.8616         13698      Verpackungsverfahren
+       9        0.8605           129      Modelle erstellen
+7
+       0        0.8455          7082      Finanzkompetenz
+       1        0.8369         10731      Kostenrechnungstätigkeiten durchführen
+       2        0.8361          6794      Ressourcenzuordnung planen
+       3        0.8339          5205      Forschungsmittel beantragen
+       4        0.8323          9062      Bohrlochkosten überwachen
+       5        0.8315         13322      Ressourcenplanung durchführen
+       6        0.8310          7401      Risikoermittlung
+       7        0.8309          7127      Finanz- und Geschäftsterminologie verstehen
+       8        0.8306          3015      Haushalt von Schulen verwalten
+       9        0.8305          7460      Rechnungslegungstechniken
+8
+       0        0.8481         13875      Schiffe und Schiffsrouten aufeinander abstimmen
+       1        0.8458          3008      Betriebsvorgänge in Docks
+       2        0.8445         10784      unterschiedliche Schiffstypen erkennen und unterscheiden
+       3        0.8444          5034      im Seeverkehr beförderte Waren
+       4        0.8437          5604      Tätigkeiten im Zusammenhang mit Schiffsfracht leiten
+       5        0.8416          7271      Grundsätze der Stabilität von Seefahrzeugen
+       6        0.8415          8070      Frachtbranche
+       7        0.8413          8820      Frachtbeförderungsmethoden
+       8        0.8411            28      Kundenanfragen in Bezug auf Fracht bearbeiten
+       9        0.8402            74      administrative Aufgaben für kleine Schiffe wahrnehmen
+9
+       0        0.8502          5628      Zollrecht
+       1        0.8436          3634      Konformität mit Zollbestimmungen sicherstellen
+       2        0.8356         10540      Vorgaben für die Herstellung von Milchprodukten
+       3        0.8355          2955      Verfahren anwenden, damit die Fracht den Zollbestimmungen entspricht
+       4        0.8348          2738      Frachtbriefe erstellen
+       5        0.8337         10629      internationale Ein-und Ausfuhrvorschriften
+       6        0.8337          6059      Textilerzeugnisse, textile Halbwaren und Rohstoffe
+       7        0.8331          5149      Ein- und Ausfuhrvorschriften für gefährliche Chemikalien
+       8        0.8318          4538      Ausfuhr von Waren und Rohstoffen durchführen
+       9        0.8317         10016      Einfuhr von Rohstoffen und Waren durchführen
+10
+       0        0.8571          7619      Produktions- und Vertriebsabläufe verbessern
+       1        0.8488          7032      logistischen Bedarf analysieren
+       2        0.8469          3231      Aufträge in der Nutzholzwirtschaft verwalten
+       3        0.8466         13088      Produktionsprozesse zwecks Optimierung analysieren
+       4        0.8456         13358      Effizienzpläne für den Logistikbetrieb entwickeln
+       5        0.8451          9983      Trends in der Lieferkette analysieren
+       6        0.8441          6138      Methoden der logistischen Datenanalyse nutzen
+       7        0.8439         13499      Anforderungen für die Güterbeförderung analysieren
+       8        0.8414          3941      Verpackungsanforderungen analysieren
+       9        0.8401          4935      Supply-Chain-Logistik für Schuhwerk und Lederwaren planen
+11
+       0        0.8516          7120      Konformität mit Versandvorschriften sicherstellen
+       1        0.8506          4698      Versandrisiken handhaben
+       2        0.8503          7271      Grundsätze der Stabilität von Seefahrzeugen
+       3        0.8493          8070      Frachtbranche
+       4        0.8488          3085      Fracht im Laderaum sichern
+       5        0.8457         10905      Informationen über die Verpackung von Sendungen entgegennehmen
+       6        0.8424           183      Fracht entladen
+       7        0.8421          5238      Fracht in einem Güterfahrzeug unterbringen
+       8        0.8415          5449      Stabilität des Zuges nach dem Beladen sicherstellen
+       9        0.8414          4407      Rechtsvorschriften für den Straßengüterverkehr
+12
+       0        0.8477          4935      Supply-Chain-Logistik für Schuhwerk und Lederwaren planen
+       1        0.8420          6049      Beschaffungsbedarf bewerten
+       2        0.8404          3107      Eingang von Rohstoffen für Futtermittel steuern
+       3        0.8388          3231      Aufträge in der Nutzholzwirtschaft verwalten
+       4        0.8386          6192      Cisco
+       5        0.8378          3536      Methoden für die Lieferantenbewertung entwickeln
+       6        0.8376          2298      Beschaffungsstrategie entwickeln
+       7        0.8361            94      Lieferungen organisieren
+       8        0.8357          3681      Produktionsbetriebe leiten
+       9        0.8356          3919      Packraum in der Produktion von Schuhwerk koordinieren
+13
+       0        0.8764         12473      Ursachen von Schäden feststellen
+       1        0.8660          5572      Reparaturanleitungen verwenden
+       2        0.8642          5526      Wartungsarbeiten planen
+       3        0.8619          8505      Grubenmaschinerie warten
+       4        0.8609          5887      Sendeausrüstung warten
+       5        0.8606          5385      Maschinen warten
+       6        0.8587         10732      Wartungsarbeiten leiten
+       7        0.8581         12823      Inspektionen von Einrichtungen sicherstellen
+       8        0.8572          5304      Wartung der Straßenfahrzeugflotte planen
+       9        0.8570         10747      Maschinen und Geräte für die Herstellung von Schuhwerk warten
+14
+       0        0.8432         12065      Folgedienstleistungen für Kunden und Kundinnen erbringen
+       1        0.8394         11040      ein Team leiten
+       2        0.8362          4083      Beratung
+       3        0.8351         13731      betriebliche Beförderungsprobleme lösen
+       4        0.8341          4978      für Kundenorientierung sorgen
+       5        0.8339          6685      Kommunikationsgeräte nutzen
+       6        0.8330          7962      Kunden/Kundinnen betreuen
+       7        0.8327           453      Feedback verwalten
+       8        0.8326          3260      Tätigkeiten von Callcentern analysieren
+       9        0.8322          2241      Kundenbeschwerden bearbeiten
+15
+       0        0.8694         10595      Projekttreffen organisieren
+       1        0.8558          6224      Projektleitung
+       2        0.8532          7474      Zeitpläne für Rohrleitungsentwicklungsprojekte erstellen
+       3        0.8523         11689      Schlüsselinformationen zu Projekten beziehen
+       4        0.8512          2446      künstlerische Projekte managen
+       5        0.8510          1915      Prinzipien des Projektmanagements
+       6        0.8476          7708      Projektzeitpläne entwickeln
+       7        0.8470          1705      Projektaktivitäten durchführen
+       8        0.8457         11118      Projekt-Konfigurationsmanagement
+       9        0.8447         11998      einen Finanzbericht erstellen
+16
+       0        0.8404         12712      Wirtschaftsplan für Online-Verkäufe ausarbeiten
+       1        0.8271          6451      Online-Kommunikationsplan für die Marke gestalten
+       2        0.8262          7820      professionelle Verwaltung führen
+       3        0.8260          6962      geschriebenes Englisch verstehen
+       4        0.8256         12020      Bewertungsformulare für Telefongespräche ausfüllen
+       5        0.8252         13397      geschriebenes Limburgisch verstehen
+       6        0.8250          4560      sich über aktuelle Ereignisse auf dem Laufenden halten
+       7        0.8249          9019      Teammitglieder schulen
+       8        0.8244          8884      geschriebenes Albanisch verstehen
+       9        0.8241          3279      SCORM-Pakete erzeugen
+17
+       0        0.8513         11731      Scanner bedienen
+       1        0.8513           390      Kosten von Instandsetzungsvorhaben berechnen
+       2        0.8503         11127      Python (Computerprogrammierung)
+       3        0.8487          8433      Kostenmetriken
+       4        0.8482           231      SAS language
+       5        0.8481          9327      Datenbankmanagementsysteme
+       6        0.8476         10606      MATLAB
+       7        0.8476          4776      quantitative Daten verwalten
+       8        0.8475          6346      relationales Datenbankmanagementsystem bedienen
+       9        0.8469           392      wissenschaftliche Daten zur Wasserqualitätskontrolle interpretieren
+18
+       0        0.8396         11649      Datenbankleistung aufrechterhalten
+       1        0.8388          9327      Datenbankmanagementsysteme
+       2        0.8369          1129      geschriebenes Javanisch verstehen
+       3        0.8356          3679      PHP
+       4        0.8340          1370      Java (Computerprogrammierung)
+       5        0.8332          3338      JavaScript
+       6        0.8330          6346      relationales Datenbankmanagementsystem bedienen
+       7        0.8326         11238      Bürosoftware
+       8        0.8323          4752      ASP.NET
+       9        0.8322         13035      Bibliotheksbenutzern/Bibliotheksbenutzerinnen digitale Kompetenz vermitteln
+19
+       0        0.8549         12084      IKT-Geräte schützen
+       1        0.8435          8946      IKT-Problemlösungsverfahren
+       2        0.8425         11818      Netzwerk-Bandbreitenanforderungen analysieren
+       3        0.8413         12417      Firewall einrichten
+       4        0.8400          7049      Netzsicherheit
+       5        0.8396          4850      Maßnahmen gegen Cyberangriffe
+       6        0.8389          3624      IKT-Sicherheit
+       7        0.8384          3504      IKT-Sicherheitsnormen
+       8        0.8373          6601      IKT-Sicherheitsgesetzgebung
+       9        0.8369         11942      Typen von Alarmsystemen
+20
+       0        0.8510          8433      Kostenmetriken
+       1        0.8508          7947      Federzeichnungen anfertigen
+       2        0.8504          3338      JavaScript
+       3        0.8472         11972      VBScript
+       4        0.8437          9838      AJAX
+       5        0.8437          4752      ASP.NET
+       6        0.8433         10549      Puppen entwerfen
+       7        0.8427          8126      Gewebe gestalten
+       8        0.8424           390      Kosten von Instandsetzungsvorhaben berechnen
+       9        0.8423          1721      Angular
+21
+       0        0.8600          9532      Gehaltsabrechnungen erstellen
+       1        0.8583          8639      Löhne und Gehälter verwalten
+       2        0.8555          1746      Löhne berechnen
+       3        0.8510          1242      Budgets prüfen
+       4        0.8477          9128      Zahlungen in der Zahnmedizin handhaben
+       5        0.8447         10731      Kostenrechnungstätigkeiten durchführen
+       6        0.8436         12019      Finanztransaktionen von Tankstellen regeln
+       7        0.8431          8811      Leihverträge vorbereiten
+       8        0.8426         13297      Buchführungsvorgänge beaufsichtigen
+       9        0.8422          3176      Stundensätze berechnen
+22
+       0        0.8464          6195      Sensoren
+       1        0.8458          9530      Messinstrumente zusammenbauen
+       2        0.8438          3631      Diagnostikinstrumente für Reparaturen an elektronischen Anlagen nutzen
+       3        0.8413         13801      Sensoren entwickeln
+       4        0.8410          3213      Typen optischer Instrumente
+       5        0.8384         11881      mechatronische Einheiten zusammenbauen
+       6        0.8380          4693      Gesetzmäßigkeiten elektronischer Geräte
+       7        0.8345         12888      quantitative sensorische Prüfung
+       8        0.8342          7345      Telekommunikationseinrichtungen installieren
+       9        0.8335          5771      Tunnelbohrmaschinen-Bedienpult
+23
+       0        0.8406         13210      Medienspeicher einrichten
+       1        0.8378         12419      Schlüssel zum Schutz der Daten verwalten
+       2        0.8378         10471      Cloud-Sicherheit und Compliance implementieren
+       3        0.8376          8433      Kostenmetriken
+       4        0.8357          6389      IKT-Problembehebung durchführen
+       5        0.8355         11446      Cloud-Daten und -Speicher verwalten
+       6        0.8322          3584      IuK-Systemtraining anbieten
+       7        0.8313         11377      verteilte Verzeichnisinformationsdienste
+       8        0.8282          1595      Lösungsbereitstellung
+       9        0.8279           190      temporäre IKT-Netze für Live-Auftritte verwalten
+24
+       0        0.8415         12417      Firewall einrichten
+       1        0.8394         13210      Medienspeicher einrichten
+       2        0.8360          6255      IKT-Systeme einsetzen
+       3        0.8352          1595      Lösungsbereitstellung
+       4        0.8323         11446      Cloud-Daten und -Speicher verwalten
+       5        0.8318         12419      Schlüssel zum Schutz der Daten verwalten
+       6        0.8303         12084      IKT-Geräte schützen
+       7        0.8290         11942      Typen von Alarmsystemen
+       8        0.8289          3584      IuK-Systemtraining anbieten
+       9        0.8286          6192      Cisco
+25
+       0        0.8299         11118      Projekt-Konfigurationsmanagement
+       1        0.8241         10595      Projekttreffen organisieren
+       2        0.8241          6224      Projektleitung
+       3        0.8225          7708      Projektzeitpläne entwickeln
+       4        0.8224         10323      IKT-Projektmanagement-Methoden
+       5        0.8210         11689      Schlüsselinformationen zu Projekten beziehen
+       6        0.8195          6941      Herstellung von Schuhwerk und Lederwaren steuern
+       7        0.8192           980      organisiert arbeiten
+       8        0.8192          5850      Bauprojekte leiten
+       9        0.8162          3584      IuK-Systemtraining anbieten
+26
+       0        0.8529          9612      Kommunikations- und Kollaborationssoftware verwenden
+       1        0.8518          4784      digitale Kommunikation und Zusammenarbeit
+       2        0.8509          8329      Netiquette beachten
+       3        0.8480         11415      im Unternehmen erforderliche Fähigkeiten vermitteln
+       4        0.8471          9658      Teamgeist aufbauen
+       5        0.8460          5047      Arbeit von Teams und Einzelpersonen planen
+       6        0.8451         11097      fachspezifische Netzwerke mit Forschern/Forscherinnen und Wissenschaftlern/Wissenschaftlerinnen aufbauen
+       7        0.8436          9175      mit belastenden Situationen umgehen
+       8        0.8433          9167      im Verkauf selbständige Arbeit leisten
+       9        0.8427          2349      Ressourcen von Maschinenräumen verwalten
+27
+       0        0.8566          4144      Gestaltungsprinzipien
+       1        0.8544          8502      digitale Inhalte formatieren
+       2        0.8538          5909      Bühnenausstattung digital zeichnen
+       3        0.8491         13698      Verpackungsverfahren
+       4        0.8460         13713      Dimensionen von Gravuren berechnen
+       5        0.8455         10671      Frontend-Webdesign erstellen
+       6        0.8448           233      elektrische Anlagen konstruieren
+       7        0.8443          8126      Gewebe gestalten
+       8        0.8434         11238      Bürosoftware
+       9        0.8427          6511      Publikationspläne vorlegen
+28
+       0        0.8568          8085      unveröffentlichte Artikel überprüfen
+       1        0.8538         10977      schnell Maschine schreiben
+       2        0.8466          7732      Gujarati schreiben
+       3        0.8466          4531      Deutsch schreiben
+       4        0.8460          1230      Tschechisch schreiben
+       5        0.8452          1127      Russisch schreiben
+       6        0.8442          7957      Wallonisch schreiben
+       7        0.8431          9898      Urdu schreiben
+       8        0.8429          5253      Telugu schreiben
+       9        0.8427          7534      Altgriechisch
+29
+       0        0.8494          8466      professionelle Dokumentation in der Gesundheitsversorgung
+       1        0.8426          6857      Unterlagen über Rechnungsinformationen von Nutzern/Nutzerinnen des Gesundheitssystems führen
+       2        0.8392          8969      elektronische Patientenakten in der Krankenpflege verwenden
+       3        0.8384          6899      rechtliche Informationen über medizinische Geräte erteilen
+       4        0.8357         13507      Arztbericht
+       5        0.8353          8681      Krankenakten von Patienten/Patientinnen identifizieren
+       6        0.8337          8843      Rechtsvorschriften für Bestattungsunternehmer
+       7        0.8331          7849      Rezepte interpretieren
+       8        0.8328          4853      medizinische Einrichtung prüfen
+       9        0.8328          2104      medizinische Laborproben beschriften
+30
+       0        0.8479          2641      Kunden und Kundinnen in Kommunikation unterrichten
+       1        0.8406          6685      Kommunikationsgeräte nutzen
+       2        0.8371         12034      per Telefon kommunizieren
+       3        0.8368         13401      in Vermietungsdiensten selbständige Arbeit leisten
+       4        0.8346          2345      Deutsch sprechen
+       5        0.8325         11163      harmonisches Verhältnis zu Kunden aufbauen
+       6        0.8312           797      Englisch sprechen
+       7        0.8304         12056      Fremdsprachenkenntnisse im Hotel- und Gaststättengewerbe anwenden
+       8        0.8300         10337      Portugiesisch sprechen
+       9        0.8292          9284      gesprochene Sprache übersetzen
+31
+       0        0.8523          9661      Unterrichtsmaterialien für Kampagnen erstellen
+       1        0.8469         10293      schriftliche Inhalte zur Verfügung stellen
+       2        0.8448          8502      digitale Inhalte formatieren
+       3        0.8443           328      Stichwörter in vollständige Texte umsetzen
+       4        0.8434          3279      SCORM-Pakete erzeugen
+       5        0.8426          9011      3D-CAD-Schuhprototypen entwerfen
+       6        0.8424          6451      Online-Kommunikationsplan für die Marke gestalten
+       7        0.8421          8126      Gewebe gestalten
+       8        0.8418         11739      Taleo
+       9        0.8418         10327      Moodle
+32
+       0        0.8428         13290      Erstellung digitaler Inhalte
+       1        0.8333          9219      Urheberrechte und Lizenzen im Zusammenhang mit digitalen Inhalten verstehen
+       2        0.8294         10293      schriftliche Inhalte zur Verfügung stellen
+       3        0.8293          8418      EDV-Ausstattung
+       4        0.8260         10908      digitale Kompetenz vermitteln
+       5        0.8259           724      Online-Schulungen anbieten
+       6        0.8258         12502      Content-Entwicklungsprozesse
+       7        0.8249         12227      Urheberrecht
+       8        0.8243          9932      digitales Lehrmaterial entwickeln
+       9        0.8239          3279      SCORM-Pakete erzeugen
+33
+       0        0.8401         11798      kreative Prozesse anregen
+       1        0.8396         11594      Forschungs- und Entwicklungsprojekte leiten
+       2        0.8369          5492      neue Produkte entwickeln
+       3        0.8345         11097      fachspezifische Netzwerke mit Forschern/Forscherinnen und Wissenschaftlern/Wissenschaftlerinnen aufbauen
+       4        0.8343         13696      gemeinschaftlich Designideen entwickeln
+       5        0.8341          8171      IuK-Projektmanagement
+       6        0.8340         10595      Projekttreffen organisieren
+       7        0.8339         10543      innovativ denken
+       8        0.8338          4176      kreative Ansätze für Lebensmittel und Getränke finden
+       9        0.8328         11131      die Kreativität im Team fördern
+34
+       0        0.8498         10293      schriftliche Inhalte zur Verfügung stellen
+       1        0.8343          1008      fehlerfreie Dokumente schreiben
+       2        0.8325          6477      im Plauderton schreiben
+       3        0.8325         10977      schnell Maschine schreiben
+       4        0.8319          5466      Text Korrektur lesen
+       5        0.8315          4907      Erwerb des mündlichen Sprachgebrauchs beaufsichtigen
+       6        0.8308          8267      Grammatik- und Rechtschreibregeln anwenden
+       7        0.8306         12323      Änderung bei der Bearbeitung von Texten verfolgen
+       8        0.8297         13865      arbeitsbezogene schriftliche Berichte analysieren
+       9        0.8291          1484      Schreibunterricht geben
+35
+       0        0.8283           231      SAS language
+       1        0.8269          6514      CAD-Technik für Absätze verwenden
+       2        0.8252           149      Erlang
+       3        0.8249         10155      SAP R3
+       4        0.8241         13154      THC Hydra
+       5        0.8234         13258      Jenkins (Werkzeuge für das Software-Konfigurationsmanagement)
+       6        0.8234           699      Apache Maven
+       7        0.8231          6370      2D-CAD-Technik bei der Erstellung von Mustern für Schuhwerk einsetzen
+       8        0.8223          7424      Maschinen montieren
+       9        0.8219          4867      APL
+36
+       0        0.8466          2326      Kommunikation zu Fitnessfragen managen
+       1        0.8440          2197      pharmazeutische Bestände aufnehmen
+       2        0.8435         10350      an der Bestandskontrolle medizinischer Ausrüstung teilnehmen
+       3        0.8426          8466      professionelle Dokumentation in der Gesundheitsversorgung
+       4        0.8389         13507      Arztbericht
+       5        0.8388          4021      Verwaltungsaufgaben in einem medizinischen Umfeld
+       6        0.8385          6223      im Gesundheitswesen kommunizieren
+       7        0.8382          5949      mit Informationen im Gesundheitssystem umgehen
+       8        0.8381          4787      professionell mit Kollegen anderer Fachgebiete kommunizieren
+       9        0.8369          7849      Rezepte interpretieren
+37
+       0        0.8518          7020      Roboter zusammenbauen
+       1        0.8417          6721      Robotikkomponenten
+       2        0.8415         12562      Robotik
+       3        0.8353          2736      Betonpumpen bedienen
+       4        0.8342         13749      Rohrleitungen reparieren
+       5        0.8341          6336      Robotersysteme warten
+       6        0.8329         11881      mechatronische Einheiten zusammenbauen
+       7        0.8284          3417      Industrieausrüstungen warten
+       8        0.8283          6941      Herstellung von Schuhwerk und Lederwaren steuern
+       9        0.8281          7774      Ausrüstungsbedarf ermitteln
+38
+       0        0.8367          9286      Marketingstrategien in die umfassende Unternehmensstrategie einbinden
+       1        0.8337          2266      Marketingplan für Ausstellungen erstellen
+       2        0.8335          7260      Abläufe in der Marketingabteilung
+       3        0.8320          7418      Marktforschung
+       4        0.8314          3376      Marketinginhalte bewerten
+       5        0.8312          7902      Aktionen im Rahmen des Marketingplans koordinieren
+       6        0.8312          3702      digitale Vermarktungsmethoden
+       7        0.8303          6455      Verkaufsförderungstechniken
+       8        0.8301          6433      Techniken für Online-Werbekampagnen
+       9        0.8283          4454      Absatzförderungstechniken
+39
+       0        0.8543          7020      Roboter zusammenbauen
+       1        0.8426          7424      Maschinen montieren
+       2        0.8420          9375      Komponenten eines Werkes koordinieren
+       3        0.8418          8903      Routinearbeit überwachen
+       4        0.8414          7947      Federzeichnungen anfertigen
+       5        0.8405         10747      Maschinen und Geräte für die Herstellung von Schuhwerk warten
+       6        0.8401          1433      automatische Schneidsysteme für Schuhwerk und Lederwaren bedienen
+       7        0.8398          9011      3D-CAD-Schuhprototypen entwerfen
+       8        0.8388          6514      CAD-Technik für Absätze verwenden
+       9        0.8388          7367      Berechnungen zu Vermessungen durchführen
+40
+       0        0.8403         11446      Cloud-Daten und -Speicher verwalten
+       1        0.8392          8433      Kostenmetriken
+       2        0.8377          3490      IKT-Hardwareplatzierung planen
+       3        0.8375          9490      IKT-Virtualisierungsumgebungen verwalten
+       4        0.8333          3149      einen Medienserver betreiben
+       5        0.8317         12138      Hardwarearchitekturen
+       6        0.8301         10072      Internetprotokoll-Konfiguration pflegen
+       7        0.8300          1595      Lösungsbereitstellung
+       8        0.8298         12417      Firewall einrichten
+       9        0.8296          7345      Telekommunikationseinrichtungen installieren
+41
+       0        0.8538          4419      visuelle Kommunikation leiten
+       1        0.8515          6685      Kommunikationsgeräte nutzen
+       2        0.8492          2641      Kunden und Kundinnen in Kommunikation unterrichten
+       3        0.8462         13793      Kommunikationsgrundsätze
+       4        0.8461          2189      eine sichere Umgebung schaffen, um Teilnehmern/Teilnehmerinnen ein ungezwungenes Umfeld zu schaffen
+       5        0.8451         13734      öffentliche Präsentationen durchführen
+       6        0.8445          1971      eine empathische Beziehung zu Nutzern/Nutzerinnen des Gesundheitssystems aufbauen
+       7        0.8444         13559      eine vorgeschlagene choreografische Sprache entwickeln
+       8        0.8441          4083      Beratung
+       9        0.8435         11163      harmonisches Verhältnis zu Kunden aufbauen
+42
+       0        0.8262         12712      Wirtschaftsplan für Online-Verkäufe ausarbeiten
+       1        0.8175          7820      professionelle Verwaltung führen
+       2        0.8173          6962      geschriebenes Englisch verstehen
+       3        0.8167         12257      Limburgisch schreiben
+       4        0.8160         13397      geschriebenes Limburgisch verstehen
+       5        0.8158          1008      fehlerfreie Dokumente schreiben
+       6        0.8154          7766      Kundenkorrespondenz erstellen
+       7        0.8149          3151      Englisch schreiben
+       8        0.8146          9019      Teammitglieder schulen
+       9        0.8141          5047      Arbeit von Teams und Einzelpersonen planen
+43
+       0        0.8331          4954      Personal einstellen
+       1        0.8290         10771      Sportkarriere managen
+       2        0.8269          2856      Mitarbeiter führen
+       3        0.8233         12335      Daten, Informationen und digitale Inhalte durchsehen, recherchieren und filtern
+       4        0.8233          3993      Mitarbeiter einstellen
+       5        0.8222          5754      sich selbst darstellen
+       6        0.8205         12890      Bewerbungsgespräche für die Auswahl von Mitgliedern des künstlerischen Teams durchführen
+       7        0.8205          3765      Instrumente für die Stellenanalyse gestalten
+       8        0.8197         13044      Unternehmensteams auf der Grundlage von Kompetenzen bilden
+       9        0.8187          7607      Arbeit von Mitarbeitern/Mitarbeiterinnen evaluieren
+44
+       0        0.8510         11632      Steuerrecht
+       1        0.8495         10005      Informationen über das Steuerrecht verbreiten
+       2        0.8468          3001      finanzielle Lage des Schuldners beurteilen
+       3        0.8461          2587      Steuer berechnen
+       4        0.8447          1746      Löhne berechnen
+       5        0.8441         12321      Verkaufsrechnungen ausstellen
+       6        0.8437          1080      über steuerliche Pflichten informieren
+       7        0.8429          9532      Gehaltsabrechnungen erstellen
+       8        0.8414          6394      Haushaltsgrundsätze
+       9        0.8413          2227      Rechnungen zuordnen
+45
+       0        0.8502          3681      Produktionsbetriebe leiten
+       1        0.8448          6049      Beschaffungsbedarf bewerten
+       2        0.8438          7774      Ausrüstungsbedarf ermitteln
+       3        0.8425          6138      Methoden der logistischen Datenanalyse nutzen
+       4        0.8421          3231      Aufträge in der Nutzholzwirtschaft verwalten
+       5        0.8417          7082      Finanzkompetenz
+       6        0.8416          2926      Rohstoffe vorbereiten
+       7        0.8415          2470      militärische Logistik
+       8        0.8414          4249      Abläufe in der Betriebsabteilung
+       9        0.8413         12506      militärische Logistik verwalten
+46
+       0        0.8523         13439      Finanzgeschäfte abwickeln
+       1        0.8497         12019      Finanztransaktionen von Tankstellen regeln
+       2        0.8451         13297      Buchführungsvorgänge beaufsichtigen
+       3        0.8410          3539      Verfahren des maschinellen Schneidens auf Schuhwerk und Lederwaren anwenden
+       4        0.8399         11998      einen Finanzbericht erstellen
+       5        0.8397          5521      Aufzeichnungen über Finanztransaktionen führen
+       6        0.8392         12321      Verkaufsrechnungen ausstellen
+       7        0.8386         12145      Bestellformulare mit Kundenangaben bearbeiten
+       8        0.8381         11238      Bürosoftware
+       9        0.8380          2155      Kasse bedienen
+47
+       0        0.8446         10731      Kostenrechnungstätigkeiten durchführen
+       1        0.8411          3681      Produktionsbetriebe leiten
+       2        0.8402          7902      Aktionen im Rahmen des Marketingplans koordinieren
+       3        0.8397         12321      Verkaufsrechnungen ausstellen
+       4        0.8385          2856      Mitarbeiter führen
+       5        0.8373          3450      Lohnabrechnungsberichte verwalten
+       6        0.8373          3168      Abläufe in der Finanzabteilung
+       7        0.8362           661      interne Revision im Krankenhaus durchführen
+       8        0.8361         12775      Kundenbestellungen bearbeiten
+       9        0.8358         10720      Einrichtungen für Büropersonal organisieren
+48
+       0        0.8578          1513      Cloud-Sicherheit und -Compliance
+       1        0.8492         11446      Cloud-Daten und -Speicher verwalten
+       2        0.8468          4234      Cloud-Netzwerke konzipieren
+       3        0.8433          7837      Cloud-Monitoring und -Reporting
+       4        0.8398         13473      IKT-Energieverbrauch
+       5        0.8396         10471      Cloud-Sicherheit und Compliance implementieren
+       6        0.8360           922      Cloud-Architektur konzipieren
+       7        0.8359          5366      Cloud-Ressourcen bereitstellen
+       8        0.8351          1595      Lösungsbereitstellung
+       9        0.8326         13532      Betriebssysteme
+49
+       0        0.8784         11446      Cloud-Daten und -Speicher verwalten
+       1        0.8701         10471      Cloud-Sicherheit und Compliance implementieren
+       2        0.8587         12419      Schlüssel zum Schutz der Daten verwalten
+       3        0.8570          5140      Zutrittskontrollsoftware verwenden
+       4        0.8566          3709      auf Vorfälle in der Cloud reagieren
+       5        0.8563         13210      Medienspeicher einrichten
+       6        0.8541         11731      Scanner bedienen
+       7        0.8535          3898      Radiologie-Informationssysteme verwalten
+       8        0.8528          4065      Ölförderungsdaten analysieren
+       9        0.8526         11649      Datenbankleistung aufrechterhalten
+50
+       0        0.8446         12138      Hardwarearchitekturen
+       1        0.8433          8433      Kostenmetriken
+       2        0.8429         13004      Internet der Dinge
+       3        0.8402         13085      Telekommunikationskonzepte
+       4        0.8396          3490      IKT-Hardwareplatzierung planen
+       5        0.8394          6389      IKT-Problembehebung durchführen
+       6        0.8392          4625      Netzkonfiguration und -leistung analysieren
+       7        0.8375          5935      Grundsätze der Gebäudekonstruktion
+       8        0.8350         13473      IKT-Energieverbrauch
+       9        0.8327          8977      Informationssystem konzipieren
+---------------Matching Semantic Learning Goals------------------------
+1
+       0        0.8676          6394      Haushaltsgrundsätze
+       1        0.8540          9097      Konformität mit Einkaufs- und Auftragsvergabebestimmungen sicherstellen
+       2        0.8539          1890      Finanzstrategien durchsetzen
+       3        0.8538          8868      Versandunterlagen bearbeiten
+       4        0.8532         13297      Buchführungsvorgänge beaufsichtigen
+       5        0.8529          7460      Rechnungslegungstechniken
+       6        0.8522         13865      arbeitsbezogene schriftliche Berichte analysieren
+       7        0.8501          1424      Hygieneberichte erstellen
+       8        0.8500          3115      Arbeitsmarktangebote
+       9        0.8499           412      geschäftsbezogene Forschung betreiben
+2
+       0        0.8821          8795      Buchführungssysteme nutzen
+       1        0.8719         11998      einen Finanzbericht erstellen
+       2        0.8700         10731      Kostenrechnungstätigkeiten durchführen
+       3        0.8685          3432      Finanzprüfungsberichte erstellen
+       4        0.8682          6394      Haushaltsgrundsätze
+       5        0.8661         13578      finanzielle Aspekte eines Unternehmens regeln
+       6        0.8653          9875      Rechnungslegungsverfahren entwerfen
+       7        0.8638          1248      Umsatzzahlen für Produkte kontrollieren
+       8        0.8634          4926      Prognosen für Buchführungskennzahlen erstellen
+       9        0.8630          5214      Buchführungsunterlagen überprüfen
+3
+       0        0.8333          7345      Telekommunikationseinrichtungen installieren
+       1        0.8293         13812      Schaltpläne lesen
+       2        0.8280          2216      elektrische Maschinen warten
+       3        0.8265         12778      elektrische Ausstattung von Fahrzeugen warten
+       4        0.8198         13487      Verpackungsverarbeitungsgeräte bedienen
+       5        0.8182           297      Handbücher für elektrische Bergbaumaschinen
+       6        0.8182          7887      elektrische Anlagen im Schiff verwalten
+       7        0.8160           946      über technische Vorgänge an Land unterrichten
+       8        0.8159          3574      elektrische Bauteile zusammenfügen
+       9        0.8157          3102      elektrische Ausrüstung instand halten
+4
+       0        0.8739          9518      Messinstrumente testen
+       1        0.8701          9372      periodische Kalibrierungspläne koordinieren
+       2        0.8694          6060      Sensoren testen
+       3        0.8683         12537      Prüfverfahren zur Tests der Wasserqualität durchführen
+       4        0.8679          9538      Geräte für Prospektionen bedienen
+       5        0.8675         11635      Materialien untersuchen
+       6        0.8666          8909      Echolotungsgerät bedienen
+       7        0.8648         10045      Messinstrumente nutzen
+       8        0.8632         13357      Früchte und Gemüse vermessen oder wiegen
+       9        0.8630          1695      zahnmedizinische Instrumente testen
+5
+       0        0.8705         12739      in interdisziplinären Teams des Gesundheitswesens arbeiten
+       1        0.8695          1205      E-Health-Anwendungen und mobile Gesundheitstechnologien einsetzen
+       2        0.8664         11590      Personen in der Fachkrankenpflege ausbilden
+       3        0.8651          5949      mit Informationen im Gesundheitssystem umgehen
+       4        0.8597         12642      Schadensrisiko von Nutzern/Nutzerinnen des Gesundheitssystems beurteilen
+       5        0.8593          5032      medizinische Daten transkribieren
+       6        0.8586         10001      Bedürfnisse von Nutzern/Nutzerinnen des Gesundheitssystems konzeptualisieren
+       7        0.8575          9897      Pläne zur Übertragung der Pflege erstellen
+       8        0.8568         11768      elektronische Dienste nutzen
+       9        0.8562          8417      Gesundheitsdatensysteme
+6
+       0        0.8997           739      Bedarfskonzepte in Inhalte umsetzen
+       1        0.8910          5228      für das Führen von Abbauunterlagen sorgen
+       2        0.8852          3820      Getreideproduktion überwachen
+       3        0.8840           867      Bewertungen in den Bereichen Gesundheit, Sicherheit und Umwelt vornehmen
+       4        0.8836           993      Fehleranalyse des Produktionsprozesses durchführen
+       5        0.8814         10675      die Umwelt vor den Folgen digitaler Technologien schützen
+       6        0.8796          9398      Content-Entwicklungsprojekte leiten
+       7        0.8793          3916      Offsetdruckverfahren verwalten
+       8        0.8793          3972      detaillierte Lebensmittelverarbeitungsverfahren durchführen
+       9        0.8790         13445      Lieferungen bei Erhalt prüfen
+7
+       0        0.8832          7082      Finanzkompetenz
+       1        0.8747          6394      Haushaltsgrundsätze
+       2        0.8747          3432      Finanzprüfungsberichte erstellen
+       3        0.8740           266      Unterlagen für die Beschlussfassung erstellen
+       4        0.8737         13578      finanzielle Aspekte eines Unternehmens regeln
+       5        0.8729         10257      Risikoberichte erstellen
+       6        0.8728         10731      Kostenrechnungstätigkeiten durchführen
+       7        0.8713          4306      Finanz- und Statistikberichte ausarbeiten
+       8        0.8687          6686      Finanzberatung leisten
+       9        0.8687           412      geschäftsbezogene Forschung betreiben
+8
+       0        0.8696          8070      Frachtbranche
+       1        0.8631          4683      Vorschriften für die Frachtbeförderung anwenden
+       2        0.8627          3646      Vorschriften für die internationale Beförderung
+       3        0.8607          8820      Frachtbeförderungsmethoden
+       4        0.8603         13875      Schiffe und Schiffsrouten aufeinander abstimmen
+       5        0.8593          2738      Frachtbriefe erstellen
+       6        0.8580            74      administrative Aufgaben für kleine Schiffe wahrnehmen
+       7        0.8574          4407      Rechtsvorschriften für den Straßengüterverkehr
+       8        0.8569            28      Kundenanfragen in Bezug auf Fracht bearbeiten
+       9        0.8551          3879      Fracht inspizieren
+9
+       0        0.8960            45      Beratung zu Zollbestimmungen leisten
+       1        0.8937          5628      Zollrecht
+       2        0.8910         10393      in Bezug auf aktuelle Zollbestimmungen auf dem Laufenden bleiben
+       3        0.8866         10629      internationale Ein-und Ausfuhrvorschriften
+       4        0.8802          3634      Konformität mit Zollbestimmungen sicherstellen
+       5        0.8796          2738      Frachtbriefe erstellen
+       6        0.8778          7497      Betriebswirtschaft
+       7        0.8776          4471      Management landwirtschaftlicher Unternehmen
+       8        0.8773         11485      Herstellungsprozess im Weingut
+       9        0.8772         11959      Zolldokumente ordnen
+10
+       0        0.8632          7032      logistischen Bedarf analysieren
+       1        0.8595          4935      Supply-Chain-Logistik für Schuhwerk und Lederwaren planen
+       2        0.8589          7619      Produktions- und Vertriebsabläufe verbessern
+       3        0.8573           840      systemorientiertes Denken
+       4        0.8540          4217      multimodale Beförderungslogistik
+       5        0.8536         12883      Unternehmensarchitektur konzipieren
+       6        0.8534          3231      Aufträge in der Nutzholzwirtschaft verwalten
+       7        0.8532          1501      Arbeitsphysiologie
+       8        0.8519         10449      Warenauslieferung überwachen
+       9        0.8517         13657      mit Logistikmanagementteams zusammenarbeiten
+11
+       0        0.8604         10548      Frachtführer verwalten
+       1        0.8593         10905      Informationen über die Verpackung von Sendungen entgegennehmen
+       2        0.8575          4698      Versandrisiken handhaben
+       3        0.8564         13499      Anforderungen für die Güterbeförderung analysieren
+       4        0.8543         11862      Beförderungsstrecken von Schüttgutlastwagen festlegen
+       5        0.8538          1464      Schüttgutlastwagen beladen
+       6        0.8535          3231      Aufträge in der Nutzholzwirtschaft verwalten
+       7        0.8526         12373      Personen- und Güterverkehr auf der Straße koordinieren
+       8        0.8519          4407      Rechtsvorschriften für den Straßengüterverkehr
+       9        0.8513          8112      sicheres Verladen von Gütern gemäß Stauplan sicherstellen
+12
+       0        0.8675         13126      analytische Erkenntnisse mitteilen
+       1        0.8652         10296      technische Anforderungen interpretieren
+       2        0.8624          5750      Standardbaupläne lesen
+       3        0.8618         11276      technische Dokumentationen verwenden
+       4        0.8614         12505      Verbesserungsmaßnahmen ermitteln
+       5        0.8611          1399      Melkverfahren
+       6        0.8605         13865      arbeitsbezogene schriftliche Berichte analysieren
+       7        0.8600          4722      Geschäftsprozesse analysieren
+       8        0.8583          6473      Geschäftsprozesse verbessern
+       9        0.8576          1734      Staupläne erstellen
+13
+       0        0.8854          6814      Grundlagen der Elektronik und Automation vermitteln
+       1        0.8838          4464      Grundlagen der Energieerzeugung vermitteln
+       2        0.8800         10678      Grundlagen der Elektrizität vermitteln
+       3        0.8793          5572      Reparaturanleitungen verwenden
+       4        0.8768          5526      Wartungsarbeiten planen
+       5        0.8732          8455      technische Ausstattung des Schiffs den Anweisungen entsprechend warten
+       6        0.8726          6305      Engineering-Prozesse
+       7        0.8704         13038      Grundlagen des Ingenieurwesens vermitteln
+       8        0.8703          5335      Grundlagen der Verkehrstechnik vermitteln
+       9        0.8702         11432      Praktika beaufsichtigen
+14
+       0        0.8698          4891      Risikoabschätzung erstellen
+       1        0.8657          8273      Supply-Chain-Strategien analysieren
+       2        0.8645           101      Dokumentation von Bewertungen von Vorkenntnissen verwalten
+       3        0.8625          9424      Rückmeldungen zur Leistung geben
+       4        0.8613           514      Lebensmittelbetriebe konzipieren
+       5        0.8602          8550      Meldeverfahren befolgen
+       6        0.8600          7678      Beratung zur Effizienzverbesserung leisten
+       7        0.8598          8672      Beschaffungsprozesse durchführen
+       8        0.8595          3701      bisher unerkannte Bedürfnisse im Unternehmen ermitteln
+       9        0.8592         11022      Entwicklungsprozess einer Organisation überprüfen
+15
+       0        0.8794         10595      Projekttreffen organisieren
+       1        0.8767          4205      Projektfortschritt dokumentieren
+       2        0.8727          8987      Geschäftsszenario entwickeln
+       3        0.8666         13073      Projektunterlagen ausarbeiten
+       4        0.8661         11998      einen Finanzbericht erstellen
+       5        0.8660          6224      Projektleitung
+       6        0.8654          1835      Projektspezifikationen erarbeiten
+       7        0.8651         11148      Projekte managen
+       8        0.8646          7708      Projektzeitpläne entwickeln
+       9        0.8644          5850      Bauprojekte leiten
+16
+       0        0.8643          5916      wirtschaftliche oder technische Fragen in Fremdsprachen erörtern
+       1        0.8581         10378      Netzwerke aufbauen
+       2        0.8580         13734      öffentliche Präsentationen durchführen
+       3        0.8566         12712      Wirtschaftsplan für Online-Verkäufe ausarbeiten
+       4        0.8563          6962      geschriebenes Englisch verstehen
+       5        0.8558          7820      professionelle Verwaltung führen
+       6        0.8552          5551      gesprochenes Englisch verstehen
+       7        0.8546           797      Englisch sprechen
+       8        0.8518          4560      sich über aktuelle Ereignisse auf dem Laufenden halten
+       9        0.8517          3151      Englisch schreiben
+17
+       0        0.8559         13298      Werkzeugmaschinen bedienen
+       1        0.8556           443      Forschungsdaten verwalten
+       2        0.8533          4776      quantitative Daten verwalten
+       3        0.8525          3609      Data-Mining durchführen
+       4        0.8524         11127      Python (Computerprogrammierung)
+       5        0.8518          8509      große Informationsmenge einprägen
+       6        0.8513          3900      Massendaten analysieren
+       7        0.8503          3431      umfangreiches Datenmaterial im Gesundheitswesen analysieren
+       8        0.8496          9841      Webmaschinentechnologie verwenden
+       9        0.8493          1356      Tabellenkalkulationsprogramme verwenden
+18
+       0        0.8735         13035      Bibliotheksbenutzern/Bibliotheksbenutzerinnen digitale Kompetenz vermitteln
+       1        0.8680          4645      Hilfen für den Zugriff auf Informationen betreuen
+       2        0.8675          8377      Webmaschinen bedienen
+       3        0.8662          9577      Anwendungsschnittstellen entwerfen
+       4        0.8655          9994      Informatik unterrichten
+       5        0.8646           571      Logistikdatenbanken führen
+       6        0.8639         13567      digitale Archive verwalten
+       7        0.8630          7424      Maschinen montieren
+       8        0.8616          5254      digitale Inhalte entwickeln
+       9        0.8606          9327      Datenbankmanagementsysteme
+19
+       0        0.8878          7375      Informationssicherheitsstrategien anwenden
+       1        0.8850           926      Plan zur IKT-Sicherheit einführen
+       2        0.8842          5868      in vertraulicher Datenbehandlung schulen
+       3        0.8825          9219      Urheberrechte und Lizenzen im Zusammenhang mit digitalen Inhalten verstehen
+       4        0.8819          1050      SA8000
+       5        0.8817          2521      OHSAS 18001 einhalten
+       6        0.8802          3624      IKT-Sicherheit
+       7        0.8761          4407      Rechtsvorschriften für den Straßengüterverkehr
+       8        0.8755           230      geschädigte Nutzer/Nutzerinnen der sozialen Dienste unterstützen
+       9        0.8749          4737      Rechtsvorschriften zur Umweltverschmutzung
+20
+       0        0.8739         11594      Forschungs- und Entwicklungsprojekte leiten
+       1        0.8733         10296      technische Anforderungen interpretieren
+       2        0.8719          8377      Webmaschinen bedienen
+       3        0.8696          5076      technische Pläne erstellen
+       4        0.8664          5850      Bauprojekte leiten
+       5        0.8660          9612      Kommunikations- und Kollaborationssoftware verwenden
+       6        0.8648          1734      Staupläne erstellen
+       7        0.8643         12846      Systemkomponenten integrieren
+       8        0.8641          6530      an Montagelinien im Team arbeiten
+       9        0.8637          4610      Software für technisches Zeichnen verwenden
+21
+       0        0.8705          1242      Budgets prüfen
+       1        0.8639          8811      Leihverträge vorbereiten
+       2        0.8634          7240      gesetzliche Verpflichtungen einhalten
+       3        0.8631          9532      Gehaltsabrechnungen erstellen
+       4        0.8592          8639      Löhne und Gehälter verwalten
+       5        0.8581         11838      Konformität mit Offenlegungskriterien für Rechnungslegungsdaten sicherstellen
+       6        0.8579          7177      Abfallbeseitigungsvorschriften
+       7        0.8575          1978      professioneller Einstieg in eine künstlerische Karriere
+       8        0.8575          3439      Erntekosten schätzen
+       9        0.8563          7476      Dateneingabeanforderungen einhalten
+22
+       0        0.8731         13801      Sensoren entwickeln
+       1        0.8696         12240      Schaltschrankkomponenten zusammenstellen
+       2        0.8660          8030      Arten von Schleifmaterial erkennen
+       3        0.8655          8534      Schaltungen mithilfe von CAD erstellen
+       4        0.8655          1538      Sicherheitssensoren verkabeln
+       5        0.8614         10314      Grundsätze der Verbrennungsmotoren
+       6        0.8586          1325      Zylinderdaten aufzeichnen
+       7        0.8585           123      Schaltpläne
+       8        0.8578          9104      Kunden und Kundinnen über Hörgeräte beraten
+       9        0.8576          3570      Beratung zu Pflanzendünger leisten
+23
+       0        0.8568          3584      IuK-Systemtraining anbieten
+       1        0.8543          9960      digitale Dokumente verwalten
+       2        0.8538          5140      Zutrittskontrollsoftware verwenden
+       3        0.8522          6443      an Plenarsitzungen des Parlaments teilnehmen
+       4        0.8519          5868      in vertraulicher Datenbehandlung schulen
+       5        0.8515         10720      Einrichtungen für Büropersonal organisieren
+       6        0.8513         13035      Bibliotheksbenutzern/Bibliotheksbenutzerinnen digitale Kompetenz vermitteln
+       7        0.8502          9612      Kommunikations- und Kollaborationssoftware verwenden
+       8        0.8501          1641      IKT-Systemwechsel leiten
+       9        0.8492         12370      das sportliche Umfeld gestalten
+24
+       0        0.8715          3584      IuK-Systemtraining anbieten
+       1        0.8680           390      Kosten von Instandsetzungsvorhaben berechnen
+       2        0.8671          6389      IKT-Problembehebung durchführen
+       3        0.8664          8430      Restaurantgäste begrüßen
+       4        0.8652          5140      Zutrittskontrollsoftware verwenden
+       5        0.8642          2741      Satellitenstart in den Weltraum
+       6        0.8636         11342      EDV-Kenntnisse besitzen
+       7        0.8631         13035      Bibliotheksbenutzern/Bibliotheksbenutzerinnen digitale Kompetenz vermitteln
+       8        0.8628          9219      Urheberrechte und Lizenzen im Zusammenhang mit digitalen Inhalten verstehen
+       9        0.8627          8811      Leihverträge vorbereiten
+25
+       0        0.8450          1835      Projektspezifikationen erarbeiten
+       1        0.8435          5850      Bauprojekte leiten
+       2        0.8409          7888      Softwareentwicklungsmethoden
+       3        0.8407         10323      IKT-Projektmanagement-Methoden
+       4        0.8399         11689      Schlüsselinformationen zu Projekten beziehen
+       5        0.8390          7708      Projektzeitpläne entwickeln
+       6        0.8389          9486      Auftragnehmerangebote vergleichen
+       7        0.8378          2815      Methoden für Projekte anpassen
+       8        0.8354           980      organisiert arbeiten
+       9        0.8348           551      agiles Projektmanagement
+26
+       0        0.8616         13521      Neuerungen in derzeitigen Praktiken anstreben
+       1        0.8601         11179      eigene Praktiken dokumentieren
+       2        0.8595         13865      arbeitsbezogene schriftliche Berichte analysieren
+       3        0.8588           195      beim digitalen Wandel industrieller Prozesse auf dem neuesten Stand sein
+       4        0.8584          8806      mithilfe digitaler Technologien interagieren
+       5        0.8574          8186      Geschäftskunden konsultieren
+       6        0.8570         10366      professionelle Netzwerke aufbauen
+       7        0.8569          4560      sich über aktuelle Ereignisse auf dem Laufenden halten
+       8        0.8568          3837      die persönliche Entwicklung vorantreiben
+       9        0.8563          7607      Arbeit von Mitarbeitern/Mitarbeiterinnen evaluieren
+27
+       0        0.8613          6515      geschriebenes Telugu verstehen
+       1        0.8586          5909      Bühnenausstattung digital zeichnen
+       2        0.8586         10671      Frontend-Webdesign erstellen
+       3        0.8584           893      geschriebenes Tamil verstehen
+       4        0.8577          7283      geschriebenes Hindi verstehen
+       5        0.8566          2908      Beleuchtungsplan erstellen
+       6        0.8565          9409      in Bezug auf Trends in der Designbranche auf dem Laufenden bleiben
+       7        0.8519          3610      geschriebenes Tschechisch verstehen
+       8        0.8517          3943      geschriebenes Deutsch verstehen
+       9        0.8512          9615      geschriebenes Arabisch verstehen
+28
+       0        0.8669           340      Medizinprodukte modellieren
+       1        0.8659          6857      Unterlagen über Rechnungsinformationen von Nutzern/Nutzerinnen des Gesundheitssystems führen
+       2        0.8632          4562      elektronische Systeme zum Patientenaktenmanagement verwenden
+       3        0.8618          3293      Datenerhaltungssoftware verwenden
+       4        0.8614         11664      medizinische Informationen übertragen
+       5        0.8606          2326      Kommunikation zu Fitnessfragen managen
+       6        0.8603          5928      Unterstützung bei Finanzkalkulationen leisten
+       7        0.8602          4692      klinische Software-Forschung betreiben
+       8        0.8594          5148      Rechenkenntnisse anwenden
+       9        0.8588          8975      Menüpläne für Patienten/Patientinnen erstellen
+29
+       0        0.8844          6857      Unterlagen über Rechnungsinformationen von Nutzern/Nutzerinnen des Gesundheitssystems führen
+       1        0.8758          5949      mit Informationen im Gesundheitssystem umgehen
+       2        0.8714          3508      Fehlzeiten von Personal überwachen
+       3        0.8705          9128      Zahlungen in der Zahnmedizin handhaben
+       4        0.8699          4117      an der Schulung von Gesundheitspersonal teilhaben
+       5        0.8697          5032      medizinische Daten transkribieren
+       6        0.8693         12739      in interdisziplinären Teams des Gesundheitswesens arbeiten
+       7        0.8662         10223      mit Krankenpflegepersonal arbeiten
+       8        0.8632          8466      professionelle Dokumentation in der Gesundheitsversorgung
+       9        0.8630          8681      Krankenakten von Patienten/Patientinnen identifizieren
+30
+       0        0.8807         13865      arbeitsbezogene schriftliche Berichte analysieren
+       1        0.8791         10366      professionelle Netzwerke aufbauen
+       2        0.8779         12018      bei der Weiterentwicklung von Sprache auf dem neuesten Stand sein
+       3        0.8747          4907      Erwerb des mündlichen Sprachgebrauchs beaufsichtigen
+       4        0.8740          9175      mit belastenden Situationen umgehen
+       5        0.8736         13670      mündliche Anweisungen befolgen
+       6        0.8730         12288      Arbeitsanweisungen umsetzen
+       7        0.8728          9266      Sprachen unterrichten
+       8        0.8724          3512      Rückmeldung zur beruflichen Leistung geben
+       9        0.8722          8434      mit Interessenträgern zusammenarbeiten
+31
+       0        0.8604          9932      digitales Lehrmaterial entwickeln
+       1        0.8530         11716      digitale Inhalte erstellen
+       2        0.8506         11011      Audio-Editing-Software
+       3        0.8486          3293      Datenerhaltungssoftware verwenden
+       4        0.8462         10327      Moodle
+       5        0.8462         11739      Taleo
+       6        0.8461          1902      Präsentationssoftware verwenden
+       7        0.8449          7947      Federzeichnungen anfertigen
+       8        0.8447           739      Bedarfskonzepte in Inhalte umsetzen
+       9        0.8434          7889      digitale Illustrationstechniken einsetzen
+32
+       0        0.8518          9932      digitales Lehrmaterial entwickeln
+       1        0.8503          1902      Präsentationssoftware verwenden
+       2        0.8497          3279      SCORM-Pakete erzeugen
+       3        0.8487         13290      Erstellung digitaler Inhalte
+       4        0.8484         11716      digitale Inhalte erstellen
+       5        0.8476           739      Bedarfskonzepte in Inhalte umsetzen
+       6        0.8471          3374      webbasierte Schulungen konzipieren
+       7        0.8459          7947      Federzeichnungen anfertigen
+       8        0.8457          7889      digitale Illustrationstechniken einsetzen
+       9        0.8457          3293      Datenerhaltungssoftware verwenden
+33
+       0        0.8962          5492      neue Produkte entwickeln
+       1        0.8887          7335      Kaufvorgänge im Nutzholzgeschäft ausführen
+       2        0.8885         11594      Forschungs- und Entwicklungsprojekte leiten
+       3        0.8883          1830      Produktlebenszyklus
+       4        0.8838          2638      Innovationsprozesse
+       5        0.8832          5583      Unternehmertum
+       6        0.8821          1204      Montageverfahren anwenden
+       7        0.8806          6993      bei Innovationen in verschiedenen Geschäftsfeldern auf aktuellem Stand bleiben
+       8        0.8801          4094      kosmetische Mittel konzipieren
+       9        0.8800          1004      Marketingplan für Schuhwerk umsetzen
+34
+       0        0.8931          5466      Text Korrektur lesen
+       1        0.8810          5378      Werbung für Sportorganisationen machen
+       2        0.8809            29      wissenschaftliche oder akademische Arbeiten und technische Unterlagen verfassen
+       3        0.8791         10446      Content in Ausgabemedien integrieren
+       4        0.8777          5254      digitale Inhalte entwickeln
+       5        0.8754         13290      Erstellung digitaler Inhalte
+       6        0.8745         11133      vorformulierte Texte lesen
+       7        0.8736         10293      schriftliche Inhalte zur Verfügung stellen
+       8        0.8735         10977      schnell Maschine schreiben
+       9        0.8731          3030      neuen Online-Inhalt erstellen
+35
+       0        0.8381          2577      Totalisator bedienen
+       1        0.8323          3750      Stauprogramme bedienen
+       2        0.8312          8783      Software für die Fertigungsplanung in Aquakulturen
+       3        0.8285          5516      speicherprogrammierbare Steuerung
+       4        0.8279          7288      Scanner-Steuerung einstellen
+       5        0.8277          7294      Siebdruckmaschinen für Textilien bedienen
+       6        0.8276          7424      Maschinen montieren
+       7        0.8275         11731      Scanner bedienen
+       8        0.8266           525      automatische Prozesskontrolle durchführen
+       9        0.8261         13885      Sensoren modellieren
+36
+       0        0.8390          9441      Medikamente eines Rezeptes zubereiten
+       1        0.8373          8386      Rechtsvorschriften im Zusammenhang mit der Praxis im Gesundheitswesen einhalten
+       2        0.8354          2104      medizinische Laborproben beschriften
+       3        0.8342          7832      Arzneimittel herstellen
+       4        0.8331          3142      Tablettenherstellungsmaschinen bedienen
+       5        0.8309         12508      medizinische Dienstleistung im Rahmen fachärztlicher Tätigkeit anbieten
+       6        0.8309          7849      Rezepte interpretieren
+       7        0.8303         10350      an der Bestandskontrolle medizinischer Ausrüstung teilnehmen
+       8        0.8300          3972      detaillierte Lebensmittelverarbeitungsverfahren durchführen
+       9        0.8293          3629      Pasteurisationsverfahren durchführen
+37
+       0        0.8590          2736      Betonpumpen bedienen
+       1        0.8574         13749      Rohrleitungen reparieren
+       2        0.8540          3604      Industriesoftware
+       3        0.8535           242      Handelsstrategien weitergeben
+       4        0.8526           195      beim digitalen Wandel industrieller Prozesse auf dem neuesten Stand sein
+       5        0.8513          3417      Industrieausrüstungen warten
+       6        0.8509          4632      Produktionsplanungssoftware nutzen
+       7        0.8508          7020      Roboter zusammenbauen
+       8        0.8491          6858      Herstellungsverfahren planen
+       9        0.8486          7774      Ausrüstungsbedarf ermitteln
+38
+       0        0.8970          8632      Marketingpläne im Bereich Schuhwerk und Lederwaren entwickeln
+       1        0.8912          5655      Werbetools entwickeln
+       2        0.8908          9829      Werbung für eine Kunstsammlung machen
+       3        0.8901          5378      Werbung für Sportorganisationen machen
+       4        0.8888          6474      Rechtsvorschriften in der Werbung anwenden
+       5        0.8840          5589      Qualität der Rechtsvorschriften sicherstellen
+       6        0.8827         11195      Texte verfassen
+       7        0.8822          5492      neue Produkte entwickeln
+       8        0.8808         12712      Wirtschaftsplan für Online-Verkäufe ausarbeiten
+       9        0.8802            29      wissenschaftliche oder akademische Arbeiten und technische Unterlagen verfassen
+39
+       0        0.8741          7020      Roboter zusammenbauen
+       1        0.8741          7424      Maschinen montieren
+       2        0.8698         13401      in Vermietungsdiensten selbständige Arbeit leisten
+       3        0.8681          2478      Anweisungen für die Kleidungsherstellung koordinieren
+       4        0.8656          1116      Sportprogramme individuell zuschneiden
+       5        0.8654          2736      Betonpumpen bedienen
+       6        0.8649          7309      IKT-Gerätetreiber entwickeln
+       7        0.8642          6529      Gravierwerkzeug benutzen
+       8        0.8624         13749      Rohrleitungen reparieren
+       9        0.8613         13517      Datenverarbeitungsanwendungen entwickeln
+40
+       0        0.8973          1400      ein komplexes Kommunikationssystem verwenden
+       1        0.8893         13606      Feuerlöscher bedienen
+       2        0.8855          5413      ökologische Prinzipien
+       3        0.8853          1399      Melkverfahren
+       4        0.8832          3719      mechanische Werkzeuge
+       5        0.8830          4402      im Transportwesen verwendete elektrische Systeme
+       6        0.8821          5371      Sportgerätenutzung
+       7        0.8817          3490      IKT-Hardwareplatzierung planen
+       8        0.8816          8377      Webmaschinen bedienen
+       9        0.8809           390      Kosten von Instandsetzungsvorhaben berechnen
+41
+       0        0.8665          2641      Kunden und Kundinnen in Kommunikation unterrichten
+       1        0.8602          6685      Kommunikationsgeräte nutzen
+       2        0.8563         13734      öffentliche Präsentationen durchführen
+       3        0.8547          8040      auf Vorstellungsgespräch vorbereiten
+       4        0.8533          7461      mit Zeichensprache kommunizieren
+       5        0.8533          2856      Mitarbeiter führen
+       6        0.8533          4691      Nutzern/Nutzerinnen des Gesundheitssystems bei der Entwicklung sozialer Wahrnehmungsfähigkeit helfen
+       7        0.8516         10366      professionelle Netzwerke aufbauen
+       8        0.8504          4419      visuelle Kommunikation leiten
+       9        0.8502          2349      Ressourcen von Maschinenräumen verwalten
+42
+       0        0.8654          8357      veranstaltungsspezifische Speisekarten erstellen
+       1        0.8628          7911      Termine vereinbaren
+       2        0.8566          5185      eine Sitzung leiten
+       3        0.8565         12753      betriebliche Weiterbildungsprogramme entwickeln
+       4        0.8561          2247      mit dem Vorstand interagieren
+       5        0.8553         10009      künstlerische Entwurfsvorschläge präsentieren
+       6        0.8553          8738      Probekleidungsstücke zeigen
+       7        0.8547         12712      Wirtschaftsplan für Online-Verkäufe ausarbeiten
+       8        0.8544         11179      eigene Praktiken dokumentieren
+       9        0.8544          3803      bei der Koordinierung von Werbeaktionen helfen
+43
+       0        0.8666          4954      Personal einstellen
+       1        0.8611         13044      Unternehmensteams auf der Grundlage von Kompetenzen bilden
+       2        0.8608          8230      Personal beaufsichtigen
+       3        0.8597          6420      Marketingkampagnen in den sozialen Medien planen
+       4        0.8587          7607      Arbeit von Mitarbeitern/Mitarbeiterinnen evaluieren
+       5        0.8567         11055      Arbeitsabläufe für Bohranlagen planen
+       6        0.8566          8319      Markenanalyse durchführen
+       7        0.8559          5025      Anwerbedienste ausführen
+       8        0.8556          8258      den Bedarf von Unternehmen beurteilen
+       9        0.8551         11574      Personalkapazität analysieren
+44
+       0        0.8763          3282      Geschäftsmodell
+       1        0.8757         10005      Informationen über das Steuerrecht verbreiten
+       2        0.8676          1813      internationale Tarife
+       3        0.8656          1080      über steuerliche Pflichten informieren
+       4        0.8640          9884      Beratung zur Steuerpolitik leisten
+       5        0.8635          6394      Haushaltsgrundsätze
+       6        0.8621          7868      mit Anteilseignern in Kontakt stehen
+       7        0.8610          1310      Steuererklärungen prüfen
+       8        0.8604           484      Rechtsberatung zu Investitionen leisten
+       9        0.8595         10314      Grundsätze der Verbrennungsmotoren
+45
+       0        0.8730         10179      elektronische Beschaffung nutzen
+       1        0.8696         13445      Lieferungen bei Erhalt prüfen
+       2        0.8690         10847      Einkaufszyklus leiten
+       3        0.8675          2298      Beschaffungsstrategie entwickeln
+       4        0.8656          7774      Ausrüstungsbedarf ermitteln
+       5        0.8648         11241      Reifen verkaufen
+       6        0.8643          6049      Beschaffungsbedarf bewerten
+       7        0.8632          4249      Abläufe in der Betriebsabteilung
+       8        0.8628         10909      Bestellungen bei verschiedenen Lieferanten koordinieren
+       9        0.8626         13126      analytische Erkenntnisse mitteilen
+46
+       0        0.8612          5214      Buchführungsunterlagen überprüfen
+       1        0.8532         13297      Buchführungsvorgänge beaufsichtigen
+       2        0.8526          1433      automatische Schneidsysteme für Schuhwerk und Lederwaren bedienen
+       3        0.8518          8811      Leihverträge vorbereiten
+       4        0.8518          9875      Rechnungslegungsverfahren entwerfen
+       5        0.8510          8849      Bescheinigungs- und Zahlungsverfahren anwenden
+       6        0.8504          7460      Rechnungslegungstechniken
+       7        0.8492          7476      Dateneingabeanforderungen einhalten
+       8        0.8491          4562      elektronische Systeme zum Patientenaktenmanagement verwenden
+       9        0.8484          5928      Unterstützung bei Finanzkalkulationen leisten
+47
+       0        0.8593          1243      Rechtsvorschriften zur Gesundheitsfürsorge
+       1        0.8588          7849      Rezepte interpretieren
+       2        0.8575          6899      rechtliche Informationen über medizinische Geräte erteilen
+       3        0.8563          4853      medizinische Einrichtung prüfen
+       4        0.8553         12739      in interdisziplinären Teams des Gesundheitswesens arbeiten
+       5        0.8552          4021      Verwaltungsaufgaben in einem medizinischen Umfeld
+       6        0.8519          7475      ein Unternehmen mit großer Sorgfalt führen
+       7        0.8511          3038      medizinische Dienstleistung im Rahmen allgemeinärztlicher Tätigkeit anbieten
+       8        0.8509           253      Arzthelfer/Arzthelferinnen beaufsichtigen
+       9        0.8498          9259      Bedingungen für die berufliche Praxis der Gesundheitspsychologie
+48
+       0        0.8571          1400      ein komplexes Kommunikationssystem verwenden
+       1        0.8484         11446      Cloud-Daten und -Speicher verwalten
+       2        0.8474          9769      IKT-System konfigurieren
+       3        0.8442          3709      auf Vorfälle in der Cloud reagieren
+       4        0.8437          5929      Beschaffung meteorologischer Geräte planen
+       5        0.8429          5366      Cloud-Ressourcen bereitstellen
+       6        0.8426          4234      Cloud-Netzwerke konzipieren
+       7        0.8425          2697      Beratung über die Installation von elektrischen Haushaltsgeräten leisten
+       8        0.8422           922      Cloud-Architektur konzipieren
+       9        0.8418          6255      IKT-Systeme einsetzen
+49
+       0        0.8659          4234      Cloud-Netzwerke konzipieren
+       1        0.8604          3584      IuK-Systemtraining anbieten
+       2        0.8591         10660      Entwicklungsteam konsultieren
+       3        0.8581          7911      Termine vereinbaren
+       4        0.8568          3709      auf Vorfälle in der Cloud reagieren
+       5        0.8557          3163      kundenbezogene Reisepläne erstellen
+       6        0.8541         11670      Tauchpläne ausarbeiten
+       7        0.8538           308      Produktvorbereitung durchführen
+       8        0.8534           744      Sophrologie-Sitzungen veranstalten
+       9        0.8532         12138      Hardwarearchitekturen
+50
+       0        0.8905          8433      Kostenmetriken
+       1        0.8839         13639      IKT-System warten
+       2        0.8798          3490      IKT-Hardwareplatzierung planen
+       3        0.8773          7974      Telekommunikation im maritimen Bereich
+       4        0.8769          1734      Staupläne erstellen
+       5        0.8764          7345      Telekommunikationseinrichtungen installieren
+       6        0.8753         11446      Cloud-Daten und -Speicher verwalten
+       7        0.8739          4750      Arbeiten leiten
+       8        0.8738          5776      Einhaltung von Stromverteilungsplänen sicherstellen
+       9        0.8727         10378      Netzwerke aufbauen
+---------------Matching Semantic Description + Learning Goals------------------------
+1
+       0        0.8297          6856      Projekte innerhalb der finanziellen Vorgaben abschließen
+       1        0.8276          5801      die Charakterisierung von Garn überwachen
+       2        0.8274          2794      Potenzial von Gebrauchtwaren prüfen
+       3        0.8269           754      Besonderheiten der zur Versteigerung verfügbaren Artikel
+       4        0.8267          2370      Gedanken für Grußkarten auswählen
+       5        0.8256         13241      neue regionale Verträge ausfindig machen
+       6        0.8256          3398      Bewirtungsprodukte besorgen
+       7        0.8254          2713      Qualität von Obst und Gemüse überprüfen
+       8        0.8252         11940      Kassenbereich sauber halten
+       9        0.8250          6966      Preise verhandeln
+2
+       0        0.8280         13713      Dimensionen von Gravuren berechnen
+       1        0.8239          6231      Beschichtungsvorschriften überwachen
+       2        0.8237          6856      Projekte innerhalb der finanziellen Vorgaben abschließen
+       3        0.8234          6145      Fremdkapitalkosten berechnen
+       4        0.8231            70      Stoffqualität bewerten
+       5        0.8229          5676      Vermessungstechniken
+       6        0.8229          2370      Gedanken für Grußkarten auswählen
+       7        0.8227          8393      Rösten von Kaffee
+       8        0.8225         11940      Kassenbereich sauber halten
+       9        0.8223          7823      Kosten des Wand- und Bodenbelags berechnen
+3
+       0        0.8180          9397      Arten von Materialien zum Töpfern
+       1        0.8160          8046      Gewürzsiebe bedienen
+       2        0.8153          8318      befüllte Formen versetzen
+       3        0.8148         10745      Vieharten
+       4        0.8146          5614      gesprochenes Romani verstehen
+       5        0.8141          7977      befüllte Kokillen versetzen
+       6        0.8137          3363      Dokumente archivieren
+       7        0.8137          1057      geschriebenes Baskisch verstehen
+       8        0.8133          8429      gesprochenes Baskisch verstehen
+       9        0.8131          8267      Grammatik- und Rechtschreibregeln anwenden
+4
+       0        0.8341          7475      ein Unternehmen mit großer Sorgfalt führen
+       1        0.8334          2364      Aufträge für Kunden nachverfolgen
+       2        0.8324          7734      Techniken der Kundenbetreuung unterrichten
+       3        0.8321          3628      Neugierde und Interesse zeigen
+       4        0.8319          8393      Rösten von Kaffee
+       5        0.8318          2759      Preistrends verfolgen
+       6        0.8317          7261      Kundendiensttätigkeiten durchführen
+       7        0.8312         11289      Gesetzeskonformität in Bezug auf Vertriebstätigkeiten sicherstellen
+       8        0.8312          8430      Restaurantgäste begrüßen
+       9        0.8307           920      Geschirr vorbereiten
+5
+       0        0.8319          2364      Aufträge für Kunden nachverfolgen
+       1        0.8319          3628      Neugierde und Interesse zeigen
+       2        0.8292          4703      Sauberkeit des Arbeitsbereichs bewahren
+       3        0.8290           758      persönliche Hygienevorschriften einhalten
+       4        0.8281          8393      Rösten von Kaffee
+       5        0.8270         10197      einfache Mahlzeiten an Bord zubereiten
+       6        0.8268          2980      Qualität gewährleisten
+       7        0.8264         11940      Kassenbereich sauber halten
+       8        0.8256          6995      personenbezogene Daten von Kunden und Kundinnen aufzeichnen
+       9        0.8256           980      organisiert arbeiten
+6
+       0        0.8342          7608      einen Designer in seinem Entwicklungsprozess unterstützen
+       1        0.8338           980      organisiert arbeiten
+       2        0.8322          3628      Neugierde und Interesse zeigen
+       3        0.8315          3363      Dokumente archivieren
+       4        0.8314         13649      gesprochenes Wallonisch verstehen
+       5        0.8310           163      gesprochenes Walisisch verstehen
+       6        0.8300          6856      Projekte innerhalb der finanziellen Vorgaben abschließen
+       7        0.8283          2980      Qualität gewährleisten
+       8        0.8281          6516      3-D-Anzeigen lesen
+       9        0.8280         12309      gesprochenes Sardisch verstehen
+7
+       0        0.8319          2759      Preistrends verfolgen
+       1        0.8238          3628      Neugierde und Interesse zeigen
+       2        0.8213          2136      die Führung des Unternehmens durch visionäre Zielsetzungen prägen
+       3        0.8207           980      organisiert arbeiten
+       4        0.8206          3531      Geschäftsziele analysieren
+       5        0.8205          2331      Produktion planen
+       6        0.8191          4441      künstlerische Nischen erkennen
+       7        0.8183         11689      Schlüsselinformationen zu Projekten beziehen
+       8        0.8181          6394      Haushaltsgrundsätze
+       9        0.8181           664      Geschäftspläne für Aquakulturzuchten entwickeln
+8
+       0        0.8313         13112      geotechnische Feldprospektion planen
+       1        0.8298          8393      Rösten von Kaffee
+       2        0.8298          3628      Neugierde und Interesse zeigen
+       3        0.8295         10745      Vieharten
+       4        0.8283          7977      befüllte Kokillen versetzen
+       5        0.8268         11940      Kassenbereich sauber halten
+       6        0.8259          3343      Teile von Gusskernen instand halten
+       7        0.8259         11631      Checklisten einhalten
+       8        0.8259           157      Kokillenteile instand halten
+       9        0.8252         10818      den Vorbereitungsbereich reinigen
+9
+       0        0.8309          5801      die Charakterisierung von Garn überwachen
+       1        0.8302          2370      Gedanken für Grußkarten auswählen
+       2        0.8298         13670      mündliche Anweisungen befolgen
+       3        0.8291          8046      Gewürzsiebe bedienen
+       4        0.8282          2364      Aufträge für Kunden nachverfolgen
+       5        0.8278          7362      Stärke von Linsen überprüfen
+       6        0.8269         12349      Übersetzungsarbeiten gegenlesen
+       7        0.8269          2794      Potenzial von Gebrauchtwaren prüfen
+       8        0.8267          3923      Inhalt und Form angleichen
+       9        0.8266          7634      Spielregeln
+10
+       0        0.8197           819      mündliche Anweisungen erteilen
+       1        0.8196          5148      Rechenkenntnisse anwenden
+       2        0.8182          6379      Privatsphäre von Nutzern/Nutzerinnen von Dienstleistungen schützen
+       3        0.8172          3619      Klassifizierung von Medikamenten
+       4        0.8168         10449      Warenauslieferung überwachen
+       5        0.8168          8267      Grammatik- und Rechtschreibregeln anwenden
+       6        0.8165         12750      Fallakten zu tierbezogenen Recherchen vorbereiten
+       7        0.8162          2364      Aufträge für Kunden nachverfolgen
+       8        0.8160          5801      die Charakterisierung von Garn überwachen
+       9        0.8151          7362      Stärke von Linsen überprüfen
+11
+       0        0.8287         10745      Vieharten
+       1        0.8274          2370      Gedanken für Grußkarten auswählen
+       2        0.8257          5801      die Charakterisierung von Garn überwachen
+       3        0.8256          8046      Gewürzsiebe bedienen
+       4        0.8237          9825      Tuftingtechnologie
+       5        0.8225          7977      befüllte Kokillen versetzen
+       6        0.8223          3628      Neugierde und Interesse zeigen
+       7        0.8221          5292      Garten- und Landschaftsgestaltung
+       8        0.8220          8430      Restaurantgäste begrüßen
+       9        0.8213         13263      Rezepte erstellen
+12
+       0        0.8376          6856      Projekte innerhalb der finanziellen Vorgaben abschließen
+       1        0.8351         11117      Kunden betreuen
+       2        0.8345          7475      ein Unternehmen mit großer Sorgfalt führen
+       3        0.8329           480      Abreise der Gäste unterstützen
+       4        0.8322         13670      mündliche Anweisungen befolgen
+       5        0.8316          2364      Aufträge für Kunden nachverfolgen
+       6        0.8314          5549      Kundenbewertung durchführen
+       7        0.8307           819      mündliche Anweisungen erteilen
+       8        0.8307         11940      Kassenbereich sauber halten
+       9        0.8304          8430      Restaurantgäste begrüßen
+13
+       0        0.8279          9397      Arten von Materialien zum Töpfern
+       1        0.8257          8393      Rösten von Kaffee
+       2        0.8235          8267      Grammatik- und Rechtschreibregeln anwenden
+       3        0.8228         11631      Checklisten einhalten
+       4        0.8224          6424      Hilfestellung bei Vertäuungsarbeiten leisten
+       5        0.8222          7977      befüllte Kokillen versetzen
+       6        0.8208           754      Besonderheiten der zur Versteigerung verfügbaren Artikel
+       7        0.8208         11940      Kassenbereich sauber halten
+       8        0.8204            70      Stoffqualität bewerten
+       9        0.8203          1415      geschriebenes Irisch verstehen
+14
+       0        0.8399         12712      Wirtschaftsplan für Online-Verkäufe ausarbeiten
+       1        0.8390          2364      Aufträge für Kunden nachverfolgen
+       2        0.8373          3436      Buchungsmuster analysieren
+       3        0.8370          8318      befüllte Formen versetzen
+       4        0.8363          3628      Neugierde und Interesse zeigen
+       5        0.8363         13670      mündliche Anweisungen befolgen
+       6        0.8358            70      Stoffqualität bewerten
+       7        0.8354          9658      Teamgeist aufbauen
+       8        0.8350          8420      gesprochenes Litauisch verstehen
+       9        0.8347          7475      ein Unternehmen mit großer Sorgfalt führen
+15
+       0        0.8371           980      organisiert arbeiten
+       1        0.8272         11689      Schlüsselinformationen zu Projekten beziehen
+       2        0.8272          6856      Projekte innerhalb der finanziellen Vorgaben abschließen
+       3        0.8251          3628      Neugierde und Interesse zeigen
+       4        0.8238          2661      individuelles Fallmanagement anwenden
+       5        0.8221          7474      Zeitpläne für Rohrleitungsentwicklungsprojekte erstellen
+       6        0.8220           819      mündliche Anweisungen erteilen
+       7        0.8214         10239      Bauvorgaben im Architekturdesign berücksichtigen
+       8        0.8213          9829      Werbung für eine Kunstsammlung machen
+       9        0.8213           295      mit Lieferanten und Lieferantinnen von Bildmaterial verhandeln
+16
+       0        0.8161          3745      Trends bei Videospielen
+       1        0.8135          6516      3-D-Anzeigen lesen
+       2        0.8107           947      Bohrpfade entwickeln
+       3        0.8099         12586      bewegte Bilder schaffen
+       4        0.8069          2687      zusätzliche Produkte verkaufen
+       5        0.8069          8046      Gewürzsiebe bedienen
+       6        0.8069          7362      Stärke von Linsen überprüfen
+       7        0.8067         12155      Trends bei Spielzeug und Spielen
+       8        0.8064          2141      Rollen anhand des Skripts lernen
+       9        0.8061          5110      Prothesen und Orthesen bearbeiten
+17
+       0        0.8474          2661      individuelles Fallmanagement anwenden
+       1        0.8467           618      Bestellungen für Computerprodukte aufgeben
+       2        0.8440          7475      ein Unternehmen mit großer Sorgfalt führen
+       3        0.8436          7585      Fehlbuchungen ermitteln
+       4        0.8414          3363      Dokumente archivieren
+       5        0.8412         12712      Wirtschaftsplan für Online-Verkäufe ausarbeiten
+       6        0.8403         12452      Konstruktionspläne ausarbeiten
+       7        0.8398         12019      Finanztransaktionen von Tankstellen regeln
+       8        0.8391         13112      geotechnische Feldprospektion planen
+       9        0.8390          7774      Ausrüstungsbedarf ermitteln
+18
+       0        0.8281         12291      gesprochenes Bihari verstehen
+       1        0.8278          7585      Fehlbuchungen ermitteln
+       2        0.8276         11940      Kassenbereich sauber halten
+       3        0.8275          1225      gesprochenes Japanisch verstehen
+       4        0.8275          6183      geschriebenes Japanisch verstehen
+       5        0.8273          3628      Neugierde und Interesse zeigen
+       6        0.8267          1415      geschriebenes Irisch verstehen
+       7        0.8264          8509      große Informationsmenge einprägen
+       8        0.8262         10014      gesprochenes Javanisch verstehen
+       9        0.8256         10977      schnell Maschine schreiben
+19
+       0        0.8353          7362      Stärke von Linsen überprüfen
+       1        0.8337          7774      Ausrüstungsbedarf ermitteln
+       2        0.8327         12750      Fallakten zu tierbezogenen Recherchen vorbereiten
+       3        0.8322          5801      die Charakterisierung von Garn überwachen
+       4        0.8314         13649      gesprochenes Wallonisch verstehen
+       5        0.8307         11618      Entscheidungen treffen
+       6        0.8306         12712      Wirtschaftsplan für Online-Verkäufe ausarbeiten
+       7        0.8306         13348      Anfragen nach Priorität ordnen
+       8        0.8306          2364      Aufträge für Kunden nachverfolgen
+       9        0.8305          7717      Kunden/Kundinnen über den Energiebedarf von Erzeugnissen beraten
+20
+       0        0.8352           531      Javanisch schreiben
+       1        0.8319         10014      gesprochenes Javanisch verstehen
+       2        0.8289          1129      geschriebenes Javanisch verstehen
+       3        0.8277          3363      Dokumente archivieren
+       4        0.8273          7362      Stärke von Linsen überprüfen
+       5        0.8267         10977      schnell Maschine schreiben
+       6        0.8239         11940      Kassenbereich sauber halten
+       7        0.8238          8509      große Informationsmenge einprägen
+       8        0.8235          6145      Fremdkapitalkosten berechnen
+       9        0.8234          1415      geschriebenes Irisch verstehen
+21
+       0        0.8284          7977      befüllte Kokillen versetzen
+       1        0.8282          8430      Restaurantgäste begrüßen
+       2        0.8279          5801      die Charakterisierung von Garn überwachen
+       3        0.8276           754      Besonderheiten der zur Versteigerung verfügbaren Artikel
+       4        0.8272          7362      Stärke von Linsen überprüfen
+       5        0.8268          6856      Projekte innerhalb der finanziellen Vorgaben abschließen
+       6        0.8267          8318      befüllte Formen versetzen
+       7        0.8266          8754      Gehegenetze instand halten
+       8        0.8265          8182      Takelage instand halten
+       9        0.8262         11940      Kassenbereich sauber halten
+22
+       0        0.8432          3628      Neugierde und Interesse zeigen
+       1        0.8407          6379      Privatsphäre von Nutzern/Nutzerinnen von Dienstleistungen schützen
+       2        0.8396           819      mündliche Anweisungen erteilen
+       3        0.8376         13670      mündliche Anweisungen befolgen
+       4        0.8375          2364      Aufträge für Kunden nachverfolgen
+       5        0.8372          2978      gesetzliche Bestimmungen für Tätigkeiten im Kfz-Einzelhandel
+       6        0.8371          5801      die Charakterisierung von Garn überwachen
+       7        0.8362          5676      Vermessungstechniken
+       8        0.8361          6060      Sensoren testen
+       9        0.8361         12803      diplomatisches Verhalten zeigen
+23
+       0        0.8377          7475      ein Unternehmen mit großer Sorgfalt führen
+       1        0.8367           819      mündliche Anweisungen erteilen
+       2        0.8358         11631      Checklisten einhalten
+       3        0.8355          8576      Arbeitsplatz instand halten
+       4        0.8345          2978      gesetzliche Bestimmungen für Tätigkeiten im Kfz-Einzelhandel
+       5        0.8339         11940      Kassenbereich sauber halten
+       6        0.8329         13253      sicherstellen, dass Produkte gesetzliche Anforderungen erfüllen
+       7        0.8328          2364      Aufträge für Kunden nachverfolgen
+       8        0.8327          3363      Dokumente archivieren
+       9        0.8319          6856      Projekte innerhalb der finanziellen Vorgaben abschließen
+24
+       0        0.8343         10818      den Vorbereitungsbereich reinigen
+       1        0.8341         13670      mündliche Anweisungen befolgen
+       2        0.8336          7977      befüllte Kokillen versetzen
+       3        0.8330         11940      Kassenbereich sauber halten
+       4        0.8328         13253      sicherstellen, dass Produkte gesetzliche Anforderungen erfüllen
+       5        0.8327          6424      Hilfestellung bei Vertäuungsarbeiten leisten
+       6        0.8325           157      Kokillenteile instand halten
+       7        0.8319          5801      die Charakterisierung von Garn überwachen
+       8        0.8310          8576      Arbeitsplatz instand halten
+       9        0.8304         11631      Checklisten einhalten
+25
+       0        0.8398           980      organisiert arbeiten
+       1        0.8381         11689      Schlüsselinformationen zu Projekten beziehen
+       2        0.8380          6856      Projekte innerhalb der finanziellen Vorgaben abschließen
+       3        0.8337          3982      Terminplan einhalten
+       4        0.8328          3628      Neugierde und Interesse zeigen
+       5        0.8326         12775      Kundenbestellungen bearbeiten
+       6        0.8319          1705      Projektaktivitäten durchführen
+       7        0.8316           819      mündliche Anweisungen erteilen
+       8        0.8304         13670      mündliche Anweisungen befolgen
+       9        0.8299          2531      Projektpläne beurteilen
+26
+       0        0.8381         12712      Wirtschaftsplan für Online-Verkäufe ausarbeiten
+       1        0.8380          6654      Marktteilnehmer
+       2        0.8358          2759      Preistrends verfolgen
+       3        0.8356          7475      ein Unternehmen mit großer Sorgfalt führen
+       4        0.8353           242      Handelsstrategien weitergeben
+       5        0.8350          6379      Privatsphäre von Nutzern/Nutzerinnen von Dienstleistungen schützen
+       6        0.8349          5697      hinsichtlich der sozialen Medien auf dem Laufenden bleiben
+       7        0.8348          3628      Neugierde und Interesse zeigen
+       8        0.8348         10675      die Umwelt vor den Folgen digitaler Technologien schützen
+       9        0.8348         12975      in Bezug auf Trends auf dem Laufenden bleiben
+27
+       0        0.8284          2569      Tonmischvorrichtung beschicken
+       1        0.8249          7424      Maschinen montieren
+       2        0.8245          2841      Requisiten entwerfen
+       3        0.8238         11571      Zeichnungen anfertigen
+       4        0.8218         13713      Dimensionen von Gravuren berechnen
+       5        0.8204          8393      Rösten von Kaffee
+       6        0.8201         11324      technische Pläne
+       7        0.8199          8182      Takelage instand halten
+       8        0.8196         10260      Maschinen und Geräte für Aquakulturanbau
+       9        0.8191          3363      Dokumente archivieren
+28
+       0        0.8411          3254      diktierte medizinische Texte bearbeiten
+       1        0.8407          8182      Takelage instand halten
+       2        0.8406         13263      Rezepte erstellen
+       3        0.8401          7069      Gesundheitsdokumentationen erstellen
+       4        0.8392          6459      biomedizinische Analyseresultate überprüfen
+       5        0.8386          4599      medizinische Studien
+       6        0.8376         12111      Patienten/Patientinnen für zahnmedizinische Eingriffe vorbereiten
+       7        0.8376         12548      professionelle Texte verfassen
+       8        0.8366         12589      Kraftstoffverkäufe aus Tanksäulen berechnen
+       9        0.8366          7734      Techniken der Kundenbetreuung unterrichten
+29
+       0        0.8342          7977      befüllte Kokillen versetzen
+       1        0.8293         10260      Maschinen und Geräte für Aquakulturanbau
+       2        0.8290          6047      Sanitätstechnologie
+       3        0.8282         10977      schnell Maschine schreiben
+       4        0.8281          4813      Vorrichtungen im Kautschuk-Extrusionsverfahren bedienen
+       5        0.8272          7069      Gesundheitsdokumentationen erstellen
+       6        0.8269          2841      Requisiten entwerfen
+       7        0.8261         10857      mit Exkrementen zurechtkommen
+       8        0.8260          8393      Rösten von Kaffee
+       9        0.8259         13105      Evaluierungsziele und -umfang definieren
+30
+       0        0.8355         10378      Netzwerke aufbauen
+       1        0.8340         13649      gesprochenes Wallonisch verstehen
+       2        0.8334         12312      gesprochenes Limburgisch verstehen
+       3        0.8319          5614      gesprochenes Romani verstehen
+       4        0.8314           158      gesprochenes Ungarisch verstehen
+       5        0.8307           801      gesprochenes Bosnisch verstehen
+       6        0.8306          3628      Neugierde und Interesse zeigen
+       7        0.8300         12991      gesprochenes Urdu verstehen
+       8        0.8300         12309      gesprochenes Sardisch verstehen
+       9        0.8299         10182      gesprochenes Griechisch verstehen
+31
+       0        0.8406          7419      Altgriechisch schreiben
+       1        0.8396          5954      geschriebenes Altgriechisch verstehen
+       2        0.8387          3363      Dokumente archivieren
+       3        0.8381          8267      Grammatik- und Rechtschreibregeln anwenden
+       4        0.8381          2141      Rollen anhand des Skripts lernen
+       5        0.8378         10977      schnell Maschine schreiben
+       6        0.8367         10356      für die Illustration vorgesehene Texte analysieren
+       7        0.8365         13670      mündliche Anweisungen befolgen
+       8        0.8364         13676      Skripte bearbeiten
+       9        0.8357          8953      gesprochenes Galicisch verstehen
+32
+       0        0.8291          8754      Gehegenetze instand halten
+       1        0.8255          8267      Grammatik- und Rechtschreibregeln anwenden
+       2        0.8253           920      Geschirr vorbereiten
+       3        0.8243          3628      Neugierde und Interesse zeigen
+       4        0.8234         10977      schnell Maschine schreiben
+       5        0.8232          5801      die Charakterisierung von Garn überwachen
+       6        0.8219          2713      Qualität von Obst und Gemüse überprüfen
+       7        0.8217         12875      Selbstverteidigung anwenden
+       8        0.8213         10356      für die Illustration vorgesehene Texte analysieren
+       9        0.8208           819      mündliche Anweisungen erteilen
+33
+       0        0.8427          5492      neue Produkte entwickeln
+       1        0.8383           980      organisiert arbeiten
+       2        0.8379          3628      Neugierde und Interesse zeigen
+       3        0.8377          2759      Preistrends verfolgen
+       4        0.8362         12975      in Bezug auf Trends auf dem Laufenden bleiben
+       5        0.8346          6911      in Bezug auf Trends bei Computern auf dem Laufenden bleiben
+       6        0.8346           242      Handelsstrategien weitergeben
+       7        0.8341          7393      offene Innovation in der Forschung fördern
+       8        0.8318          7774      Ausrüstungsbedarf ermitteln
+       9        0.8311          9409      in Bezug auf Trends in der Designbranche auf dem Laufenden bleiben
+34
+       0        0.8384          8267      Grammatik- und Rechtschreibregeln anwenden
+       1        0.8374         10977      schnell Maschine schreiben
+       2        0.8338         10356      für die Illustration vorgesehene Texte analysieren
+       3        0.8304          7419      Altgriechisch schreiben
+       4        0.8302          9072      geschriebenes Galicisch verstehen
+       5        0.8293          5954      geschriebenes Altgriechisch verstehen
+       6        0.8293          5190      Galicisch schreiben
+       7        0.8287          1415      geschriebenes Irisch verstehen
+       8        0.8285         12349      Übersetzungsarbeiten gegenlesen
+       9        0.8284         12409      geschriebenes Griechisch verstehen
+35
+       0        0.8322         12966      Pulver sieben
+       1        0.8304          8046      Gewürzsiebe bedienen
+       2        0.8269         13473      IKT-Energieverbrauch
+       3        0.8263          2451      Siebe für pflanzliche Stoffe bedienen
+       4        0.8261          5927      Bestellungen für Bäckereizutaten aufgeben
+       5        0.8241           980      organisiert arbeiten
+       6        0.8230          8509      große Informationsmenge einprägen
+       7        0.8227          5148      Rechenkenntnisse anwenden
+       8        0.8225          2370      Gedanken für Grußkarten auswählen
+       9        0.8219          3363      Dokumente archivieren
+36
+       0        0.8408          7977      befüllte Kokillen versetzen
+       1        0.8376         11117      Kunden betreuen
+       2        0.8375         11689      Schlüsselinformationen zu Projekten beziehen
+       3        0.8372          3667      das Unternehmen vertreten
+       4        0.8362          5563      mit Kunden über technische Fragen kommunizieren
+       5        0.8360         12875      Selbstverteidigung anwenden
+       6        0.8358          7734      Techniken der Kundenbetreuung unterrichten
+       7        0.8357          7645      Aufzeichnungen über Interaktionen mit Kunden und Kundinnen führen
+       8        0.8351         12065      Folgedienstleistungen für Kunden und Kundinnen erbringen
+       9        0.8347         12712      Wirtschaftsplan für Online-Verkäufe ausarbeiten
+37
+       0        0.8404          8393      Rösten von Kaffee
+       1        0.8383           242      Handelsstrategien weitergeben
+       2        0.8338          7774      Ausrüstungsbedarf ermitteln
+       3        0.8331          7424      Maschinen montieren
+       4        0.8328          2759      Preistrends verfolgen
+       5        0.8310           919      Benutzung von Hardware vorführen
+       6        0.8310           155      Herstellung von Armaturen
+       7        0.8309         10314      Grundsätze der Verbrennungsmotoren
+       8        0.8305           980      organisiert arbeiten
+       9        0.8305         12975      in Bezug auf Trends auf dem Laufenden bleiben
+38
+       0        0.8424          6654      Marktteilnehmer
+       1        0.8404          2759      Preistrends verfolgen
+       2        0.8385          3354      Produktstrategien entwickeln
+       3        0.8384          1004      Marketingplan für Schuhwerk umsetzen
+       4        0.8361          5492      neue Produkte entwickeln
+       5        0.8361          7335      Kaufvorgänge im Nutzholzgeschäft ausführen
+       6        0.8357         13733      Produktgestaltung entwickeln
+       7        0.8316         12712      Wirtschaftsplan für Online-Verkäufe ausarbeiten
+       8        0.8312         10316      Pharmaindustrie
+       9        0.8312          3531      Geschäftsziele analysieren
+39
+       0        0.8352          7424      Maschinen montieren
+       1        0.8330          7774      Ausrüstungsbedarf ermitteln
+       2        0.8328          2412      gesprochenes Telugu verstehen
+       3        0.8328         13473      IKT-Energieverbrauch
+       4        0.8326          3256      Tunnelbohrmaschine-Betriebsarten umschalten
+       5        0.8324          8433      Kostenmetriken
+       6        0.8319          2736      Betonpumpen bedienen
+       7        0.8318          9019      Teammitglieder schulen
+       8        0.8318          5901      gesprochenes Portugiesisch verstehen
+       9        0.8316          8393      Rösten von Kaffee
+40
+       0        0.8258          2364      Aufträge für Kunden nachverfolgen
+       1        0.8226          3745      Trends bei Videospielen
+       2        0.8181          7774      Ausrüstungsbedarf ermitteln
+       3        0.8171          4703      Sauberkeit des Arbeitsbereichs bewahren
+       4        0.8162           618      Bestellungen für Computerprodukte aufgeben
+       5        0.8160          4320      Spiele demonstrieren
+       6        0.8159          8433      Kostenmetriken
+       7        0.8155          8393      Rösten von Kaffee
+       8        0.8150          3490      IKT-Hardwareplatzierung planen
+       9        0.8149           980      organisiert arbeiten
+41
+       0        0.8406         13670      mündliche Anweisungen befolgen
+       1        0.8376         10378      Netzwerke aufbauen
+       2        0.8366          9658      Teamgeist aufbauen
+       3        0.8358          3628      Neugierde und Interesse zeigen
+       4        0.8352         12712      Wirtschaftsplan für Online-Verkäufe ausarbeiten
+       5        0.8350           919      Benutzung von Hardware vorführen
+       6        0.8344          7475      ein Unternehmen mit großer Sorgfalt führen
+       7        0.8332         10424      mit unterschiedlichen Persönlichkeiten arbeiten
+       8        0.8330          5801      die Charakterisierung von Garn überwachen
+       9        0.8329         10998      in Textilfertigungsteams arbeiten
+42
+       0        0.8224          8953      gesprochenes Galicisch verstehen
+       1        0.8184         12312      gesprochenes Limburgisch verstehen
+       2        0.8181          5901      gesprochenes Portugiesisch verstehen
+       3        0.8175         10378      Netzwerke aufbauen
+       4        0.8174          2661      individuelles Fallmanagement anwenden
+       5        0.8170         13752      unvoreingenommen bleiben
+       6        0.8167         13432      Galicisch sprechen
+       7        0.8167          5190      Galicisch schreiben
+       8        0.8166         10182      gesprochenes Griechisch verstehen
+       9        0.8160         11689      Schlüsselinformationen zu Projekten beziehen
+43
+       0        0.8300          2661      individuelles Fallmanagement anwenden
+       1        0.8262          5549      Kundenbewertung durchführen
+       2        0.8241          1598      individuell angepasste Polsterung liefern
+       3        0.8237         12875      Selbstverteidigung anwenden
+       4        0.8232          3436      Buchungsmuster analysieren
+       5        0.8224          8430      Restaurantgäste begrüßen
+       6        0.8223         12803      diplomatisches Verhalten zeigen
+       7        0.8223          5047      Arbeit von Teams und Einzelpersonen planen
+       8        0.8220          1786      Datingberatung leisten
+       9        0.8213          2364      Aufträge für Kunden nachverfolgen
+44
+       0        0.8328         12349      Übersetzungsarbeiten gegenlesen
+       1        0.8311         13670      mündliche Anweisungen befolgen
+       2        0.8304          5801      die Charakterisierung von Garn überwachen
+       3        0.8291          7362      Stärke von Linsen überprüfen
+       4        0.8290          2364      Aufträge für Kunden nachverfolgen
+       5        0.8287         12875      Selbstverteidigung anwenden
+       6        0.8283           920      Geschirr vorbereiten
+       7        0.8279         10818      den Vorbereitungsbereich reinigen
+       8        0.8271           819      mündliche Anweisungen erteilen
+       9        0.8269          7977      befüllte Kokillen versetzen
+45
+       0        0.8361          6856      Projekte innerhalb der finanziellen Vorgaben abschließen
+       1        0.8333           754      Besonderheiten der zur Versteigerung verfügbaren Artikel
+       2        0.8326          6100      Zustand von Gebrauchtwaren verbessern
+       3        0.8321          5549      Kundenbewertung durchführen
+       4        0.8317          7335      Kaufvorgänge im Nutzholzgeschäft ausführen
+       5        0.8310          2794      Potenzial von Gebrauchtwaren prüfen
+       6        0.8308          2364      Aufträge für Kunden nachverfolgen
+       7        0.8307          7657      Bestückung von Regalen überwachen
+       8        0.8306         10857      mit Exkrementen zurechtkommen
+       9        0.8304         11940      Kassenbereich sauber halten
+46
+       0        0.8368         11940      Kassenbereich sauber halten
+       1        0.8349          5801      die Charakterisierung von Garn überwachen
+       2        0.8343          7362      Stärke von Linsen überprüfen
+       3        0.8338          6856      Projekte innerhalb der finanziellen Vorgaben abschließen
+       4        0.8335          8811      Leihverträge vorbereiten
+       5        0.8334          2364      Aufträge für Kunden nachverfolgen
+       6        0.8321           754      Besonderheiten der zur Versteigerung verfügbaren Artikel
+       7        0.8318          5927      Bestellungen für Bäckereizutaten aufgeben
+       8        0.8312          2646      Inkassotechniken
+       9        0.8303          7585      Fehlbuchungen ermitteln
+47
+       0        0.8406          5549      Kundenbewertung durchführen
+       1        0.8386         12061      ethischen Verhaltenskodex im Tourismus einhalten
+       2        0.8370          2759      Preistrends verfolgen
+       3        0.8362          3436      Buchungsmuster analysieren
+       4        0.8360          7475      ein Unternehmen mit großer Sorgfalt führen
+       5        0.8359         12712      Wirtschaftsplan für Online-Verkäufe ausarbeiten
+       6        0.8355          6856      Projekte innerhalb der finanziellen Vorgaben abschließen
+       7        0.8355          5292      Garten- und Landschaftsgestaltung
+       8        0.8354          3628      Neugierde und Interesse zeigen
+       9        0.8352          7766      Kundenkorrespondenz erstellen
+48
+       0        0.8432         11117      Kunden betreuen
+       1        0.8378          2364      Aufträge für Kunden nachverfolgen
+       2        0.8363          7734      Techniken der Kundenbetreuung unterrichten
+       3        0.8335          2731      Installation von Audiosystemen unterstützen
+       4        0.8330         13670      mündliche Anweisungen befolgen
+       5        0.8318          8816      hochwertige Kundenbetreuung bereitstellen
+       6        0.8314          6856      Projekte innerhalb der finanziellen Vorgaben abschließen
+       7        0.8310           919      Benutzung von Hardware vorführen
+       8        0.8307         13348      Anfragen nach Priorität ordnen
+       9        0.8307         10818      den Vorbereitungsbereich reinigen
+49
+       0        0.8384          2978      gesetzliche Bestimmungen für Tätigkeiten im Kfz-Einzelhandel
+       1        0.8383          7475      ein Unternehmen mit großer Sorgfalt führen
+       2        0.8365          6856      Projekte innerhalb der finanziellen Vorgaben abschließen
+       3        0.8365         11940      Kassenbereich sauber halten
+       4        0.8352          9083      Qualitätsnormen für das Reinigen von Schornsteinen durchsetzen
+       5        0.8347         13253      sicherstellen, dass Produkte gesetzliche Anforderungen erfüllen
+       6        0.8339          5801      die Charakterisierung von Garn überwachen
+       7        0.8332          6231      Beschichtungsvorschriften überwachen
+       8        0.8329          2364      Aufträge für Kunden nachverfolgen
+       9        0.8329          2713      Qualität von Obst und Gemüse überprüfen
+50
+       0        0.8316         13670      mündliche Anweisungen befolgen
+       1        0.8313          6516      3-D-Anzeigen lesen
+       2        0.8295         11117      Kunden betreuen
+       3        0.8288          2364      Aufträge für Kunden nachverfolgen
+       4        0.8276          3745      Trends bei Videospielen
+       5        0.8264          4320      Spiele demonstrieren
+       6        0.8256           980      organisiert arbeiten
+       7        0.8249          8811      Leihverträge vorbereiten
+       8        0.8244          3628      Neugierde und Interesse zeigen
+       9        0.8241          5901      gesprochenes Portugiesisch verstehen
+
+
